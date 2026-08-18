@@ -1,0 +1,7187 @@
+[
+  {
+    "_id": "6a844223792b822d53f1a366",
+    "created": "2026-08-18T11:29:39.090Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "68a9e8aab479f05404a946c8",
+      "slug": "2000134379",
+      "name": "Camara"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 196396
+  },
+  {
+    "_id": "6a84421057fad42d5a6875fa",
+    "created": "2026-08-18T11:29:20.308Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "64993a6f68d3951e993f2ebb",
+      "slug": "2000056071",
+      "name": "Brais Martínez"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 183569
+  },
+  {
+    "_id": "6a83fdd697ce7a2d820c09b0",
+    "created": "2026-08-18T06:38:14.949Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "5f4fd2e6c5c6f903e7c2522e",
+      "slug": "37048153",
+      "name": "Van de Beek"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1212498
+  },
+  {
+    "_id": "6a83fdc5413a1d2d60e54d7e",
+    "created": "2026-08-18T06:37:57.498Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "5b34a5c720ba80411d09b254",
+      "slug": "43077014",
+      "name": "Juan Cruz"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1007692
+  },
+  {
+    "_id": "6a83fdbccd455b2d599d1e86",
+    "created": "2026-08-18T06:37:48.538Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "6a4d33a894becb49b7f59320",
+      "slug": "78074572",
+      "name": "Gularte"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1133704
+  },
+  {
+    "_id": "6a83ddf0856c9a0705ebbd89",
+    "created": "2026-08-18T04:22:08.816Z",
+    "_playerTeam": {
+      "_id": "62a83ae5390b79040d8e6db8",
+      "name": "Andorra",
+      "slug": "andorra"
+    },
+    "_player": {
+      "_id": "668c14d6a3a4d703c605a5df",
+      "slug": "67272505",
+      "name": "Quintana"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 376000,
+        "_id": "6a83ddf0856c9a0705ebbd8a"
+      }
+    ],
+    "price": 855884
+  },
+  {
+    "_id": "6a83ddf01fefec070b231516",
+    "created": "2026-08-18T04:22:08.770Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "5c323b46bef16503ec960e1c",
+      "slug": "67260440",
+      "name": "Bryan Gil"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 2151379
+  },
+  {
+    "_id": "6a83ddf002182306ffe41499",
+    "created": "2026-08-18T04:22:08.709Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "5f67c6036a93e44a2fcc6c95",
+      "slug": "67277459",
+      "name": "Marvin Park"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 428091
+  },
+  {
+    "_id": "6a83ddf083231207128cf22f",
+    "created": "2026-08-18T04:22:08.653Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6861a4b1aedcdd33075dd249",
+      "slug": "18109146",
+      "name": "Matthys"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1096657
+  },
+  {
+    "_id": "6a83ddf0160dae06f83cb398",
+    "created": "2026-08-18T04:22:08.611Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "68966b403777f60412745589",
+      "slug": "67153505",
+      "name": "Betancor"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 1043647,
+        "_id": "6a83ddf0160dae06f83cb39a"
+      }
+    ],
+    "price": 1043649
+  },
+  {
+    "_id": "6a83d86f27e0d92d7befba57",
+    "created": "2026-08-18T03:58:39.768Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "66a3d3797fc6ff03fb06facb",
+      "name": "Lavagnino",
+      "slug": "2000096565"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 195935
+  },
+  {
+    "_id": "6a83d84697ce7a2d820bdafe",
+    "created": "2026-08-18T03:57:58.826Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "66896785a3a4d703c6059a5c",
+      "slug": "83236733",
+      "name": "Cipenga"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 2253228
+  },
+  {
+    "_id": "6a83b5567046f12d741b3909",
+    "created": "2026-08-18T01:28:54.913Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "520269005a91a4c637000084",
+      "name": "Albarrán",
+      "slug": "67187253"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 231685
+  },
+  {
+    "_id": "6a83675804b95c71b3720d9b",
+    "created": "2026-08-17T19:56:08.969Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "52449afe0038715b1a000074",
+      "name": "Clerc",
+      "slug": "67147196"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 326288
+  },
+  {
+    "_id": "6a833d51d767ca71bbeb4aa7",
+    "created": "2026-08-17T16:56:49.898Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "5b3fbb9b3ad1dd960b5399ec",
+      "slug": "67157518",
+      "name": "Ander Cantero"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1506708
+  },
+  {
+    "_id": "6a83243d8cdb6071c8e73159",
+    "created": "2026-08-17T15:09:49.809Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "6600a93fa48ce84f4b5fb742",
+      "slug": "67269372",
+      "name": "Juan Gutierrez"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1296603
+  },
+  {
+    "_id": "6a83239683b81d06dcdc513d",
+    "created": "2026-08-17T15:07:02.896Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "6a4d33a894becb49b7f59320",
+      "slug": "78074572",
+      "name": "Gularte"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1093507
+  },
+  {
+    "_id": "6a832396e27c1a06d6570932",
+    "created": "2026-08-17T15:07:02.890Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "5f4fd2e6c5c6f903e7c2522e",
+      "slug": "37048153",
+      "name": "Van de Beek"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1230000
+  },
+  {
+    "_id": "6a8323968aeb9f06ef41d97d",
+    "created": "2026-08-17T15:07:02.887Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a3e725e3199fd49d9528091",
+      "slug": "62248915",
+      "name": "Pecar"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 870900,
+        "_id": "6a8323968aeb9f06ef41d97e"
+      },
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 559999,
+        "_id": "6a8323968aeb9f06ef41d97f"
+      }
+    ],
+    "price": 890000
+  },
+  {
+    "_id": "6a832396aff82c06e27aab2b",
+    "created": "2026-08-17T15:07:02.866Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "6865b21096e2d6335a297029",
+      "slug": "2000141741",
+      "name": "Cerdà"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1101371
+  },
+  {
+    "_id": "6a832396aac87f06fe396564",
+    "created": "2026-08-17T15:07:02.848Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "6691798499e2e504052cb41c",
+      "slug": "67263546",
+      "name": "Chacón"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 797775,
+        "_id": "6a832396aac87f06fe396565"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 797775,
+        "_id": "6a832396aac87f06fe396566"
+      }
+    ],
+    "price": 997875
+  },
+  {
+    "_id": "6a831ada003570719a962893",
+    "created": "2026-08-17T14:29:46.013Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "64b1c502c35fcb3cfd3ed505",
+      "slug": "67258945",
+      "name": "Youness"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 668870
+  },
+  {
+    "_id": "6a831a29300e1871997b765b",
+    "created": "2026-08-17T14:26:49.456Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66008381aa35cf4f4218df43",
+      "slug": "2000271899",
+      "name": "Liso"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1255011
+  },
+  {
+    "_id": "6a82d80bb41a9771a05a48d9",
+    "created": "2026-08-17T09:44:43.602Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "64a67bacafd9eb7360360e75",
+      "slug": "2000062514",
+      "name": "Ilyas Chaira"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 2750838
+  },
+  {
+    "_id": "6a829b04d767ca71bbeaaaa6",
+    "created": "2026-08-17T05:24:20.848Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "60ed405c1a405a604ca8c30e",
+      "slug": "67246376",
+      "name": "Petxarromán"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 135206
+  },
+  {
+    "_id": "6a828c6983b81d06dcdc2a2b",
+    "created": "2026-08-17T04:22:01.421Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "6866a624a197f1335d2a98d5",
+      "slug": "2000248420",
+      "name": "Dani Díaz"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 742238,
+        "_id": "6a828c6983b81d06dcdc2a2c"
+      }
+    ],
+    "price": 742238
+  },
+  {
+    "_id": "6a828c698aeb9f06ef41b348",
+    "created": "2026-08-17T04:22:01.387Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a498eead20b724a05e80877",
+      "slug": "2000056910",
+      "name": "Krdžalić"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 600000,
+        "_id": "6a828c698aeb9f06ef41b349"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 431000,
+        "_id": "6a828c698aeb9f06ef41b34a"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 215360,
+        "_id": "6a828c698aeb9f06ef41b34b"
+      }
+    ],
+    "price": 980000
+  },
+  {
+    "_id": "6a828c6978dd9a06f7eb4afa",
+    "created": "2026-08-17T04:22:01.381Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "6600a93fa48ce84f4b5fb742",
+      "slug": "67269372",
+      "name": "Juan Gutierrez"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1240000
+  },
+  {
+    "_id": "6a828c69aff82c06e27a847d",
+    "created": "2026-08-17T04:22:01.358Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef6a44da74b49f56d3e91",
+      "slug": "2000119313",
+      "name": "Álvaro Marín"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 264436
+  },
+  {
+    "_id": "6a828c69ed0d6006e8e18ced",
+    "created": "2026-08-17T04:22:01.345Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "67c49acdeba23e04138fd0c1",
+      "slug": "2000214907",
+      "name": "Mariezkurrena"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [],
+    "price": 373228
+  },
+  {
+    "_id": "6a828c6983b81d06dcdc2a23",
+    "created": "2026-08-17T04:22:01.340Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "690775455349e203e042c5ea",
+      "slug": "2000291726",
+      "name": "Juan Díaz"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 581884,
+        "_id": "6a828c6983b81d06dcdc2a24"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 397979,
+        "_id": "6a828c6983b81d06dcdc2a25"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 161824,
+        "_id": "6a828c6983b81d06dcdc2a26"
+      }
+    ],
+    "price": 1000000
+  },
+  {
+    "_id": "6a828c69e27c1a06d656e27c",
+    "created": "2026-08-17T04:22:01.283Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "65ff6b016f0f544f132ae71b",
+      "slug": "2000189207",
+      "name": "Gastón Valles"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 499999
+  },
+  {
+    "_id": "6a828c69c3fd5f06d5753b01",
+    "created": "2026-08-17T04:22:01.270Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "68a9e8aab479f05404a946c8",
+      "slug": "2000134379",
+      "name": "Camara"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 184464
+  },
+  {
+    "_id": "6a828c69aac87f06fe393e8b",
+    "created": "2026-08-17T04:22:01.222Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "6a4be3a2c40ad549f036e885",
+      "slug": "37079086",
+      "name": "Buurmeester"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 565981
+  },
+  {
+    "_id": "6a828c6978dd9a06f7eb4aef",
+    "created": "2026-08-17T04:22:01.221Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "51b8918cb986415a2c000013",
+      "name": "Diego Mariño",
+      "slug": "67066947"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 399999,
+        "_id": "6a828c6978dd9a06f7eb4af0"
+      }
+    ],
+    "price": 600099
+  },
+  {
+    "_id": "6a822ce210c9ae4c241f42cc",
+    "created": "2026-08-16T21:34:26.734Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "64e4ae7dbd2e4c5182461238",
+      "slug": "49040095",
+      "name": "Lachuer"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 442311
+  },
+  {
+    "_id": "6a822cd72215cf4c45a4389b",
+    "created": "2026-08-16T21:34:15.055Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "6a3c4b505382de03a5b929a7",
+      "slug": "37076864",
+      "name": "De Rooij"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 554110
+  },
+  {
+    "_id": "6a81e3da3fa1a84c2a7b40ca",
+    "created": "2026-08-16T16:22:50.901Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66b352197fc6ff03fb06fb13",
+      "slug": "2000197963",
+      "name": "D. López"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 375779
+  },
+  {
+    "_id": "6a81e3bc3fa1a84c2a7b40bd",
+    "created": "2026-08-16T16:22:20.226Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "57c32a495cfb0eb30a213b06",
+      "slug": "67213756",
+      "name": "Amath Ndiaye"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 496998
+  },
+  {
+    "_id": "6a81d5d0c1d42c4c30af1cdf",
+    "created": "2026-08-16T15:22:56.764Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "6a635ac06767b305a9938256",
+      "slug": "50060523",
+      "name": "Bamba"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 544156
+  },
+  {
+    "_id": "6a81d2962215cf4c45a3723d",
+    "created": "2026-08-16T15:09:10.624Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "5aad4e5734baaf140d8376d2",
+      "slug": "67258412",
+      "name": "Marqués"
+    },
+    "_seller": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [],
+    "price": 1191724
+  },
+  {
+    "_id": "6a81d287cb1cc44c37c67bac",
+    "created": "2026-08-16T15:08:55.629Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "5b7b3421bf484b6b99da2143",
+      "slug": "67233388",
+      "name": "Nolaskoain"
+    },
+    "_seller": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [],
+    "price": 1327685
+  },
+  {
+    "_id": "6a81d2166192ff0702bc0968",
+    "created": "2026-08-16T15:07:02.079Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "6a3e67cfe284b949d26e069d",
+      "slug": "albert-orriols",
+      "name": "Orriols"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 289099
+  },
+  {
+    "_id": "6a81d21631a1aa06f5cc8261",
+    "created": "2026-08-16T15:07:02.027Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "60d87397f3187404105b24af",
+      "slug": "49037109",
+      "name": "Mellot"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 2450000,
+        "_id": "6a81d21631a1aa06f5cc8262"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1880840,
+        "_id": "6a81d21631a1aa06f5cc8263"
+      },
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 1720000,
+        "_id": "6a81d21631a1aa06f5cc8264"
+      },
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 1599999,
+        "_id": "6a81d21631a1aa06f5cc8265"
+      }
+    ],
+    "price": 2500010
+  },
+  {
+    "_id": "6a81d215e15f720711eb9540",
+    "created": "2026-08-16T15:07:01.981Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "6305da4d46d783071421441c",
+      "slug": "67265794",
+      "name": "Arnau Tenas"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1894464,
+        "_id": "6a81d215e15f720711eb9541"
+      }
+    ],
+    "price": 1899999
+  },
+  {
+    "_id": "6a81d215371102070a579739",
+    "created": "2026-08-16T15:07:01.966Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "52000a648d27c3860700005a",
+      "name": "Alcaraz",
+      "slug": "67178038"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 419999,
+        "_id": "6a81d215371102070a57973b"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 416498,
+        "_id": "6a81d215371102070a57973c"
+      }
+    ],
+    "price": 488847
+  },
+  {
+    "_id": "6a81d2156192ff0702bc0963",
+    "created": "2026-08-16T15:07:01.956Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "66896785a3a4d703c6059a5c",
+      "slug": "83236733",
+      "name": "Cipenga"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 2209999
+  },
+  {
+    "_id": "6a81ca4c3fa1a84c2a7b2445",
+    "created": "2026-08-16T14:33:48.236Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "65bfd37631a93003f67b285a",
+      "slug": "2000213643",
+      "name": "Omar Sadik"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 605925
+  },
+  {
+    "_id": "6a8196e2cb1cc44c37c61414",
+    "created": "2026-08-16T10:54:26.958Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "69522f8b219d420443393cff",
+      "slug": "89051871",
+      "name": "Erlien"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 352076
+  },
+  {
+    "_id": "6a813ae76192ff0702bbe373",
+    "created": "2026-08-16T04:21:59.153Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "64a67bacafd9eb7360360e75",
+      "slug": "2000062514",
+      "name": "Ilyas Chaira"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 2695768
+  },
+  {
+    "_id": "6a813ae768915f06fc468e37",
+    "created": "2026-08-16T04:21:59.143Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66008381aa35cf4f4218df43",
+      "slug": "2000271899",
+      "name": "Liso"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 1210000,
+        "_id": "6a813ae768915f06fc468e38"
+      }
+    ],
+    "price": 1390450
+  },
+  {
+    "_id": "6a813ae73c8a9f06e8d6c7f6",
+    "created": "2026-08-16T04:21:59.139Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "686196fe7775a433449e9329",
+      "slug": "2000227332",
+      "name": "Pablo Santiago"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 475423
+  },
+  {
+    "_id": "6a813ae7be671906ef0993af",
+    "created": "2026-08-16T04:21:59.137Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "521463e9dbf8b74f02000011",
+      "name": "Alberto",
+      "slug": "67172038"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1456009,
+        "_id": "6a813ae7be671906ef0993b0"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1443699,
+        "_id": "6a813ae7be671906ef0993b1"
+      }
+    ],
+    "price": 2250000
+  },
+  {
+    "_id": "6a813ae7e15f720711eb700f",
+    "created": "2026-08-16T04:21:59.112Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "69812c0e20adde03e7801dfe",
+      "slug": "67244309",
+      "name": "San Bartolomé"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 163515
+  },
+  {
+    "_id": "6a813ae731a1aa06f5cc5c29",
+    "created": "2026-08-16T04:21:59.105Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "521463d530da105102000049",
+      "name": "Raúl Fernández",
+      "slug": "67018270"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 133008
+  },
+  {
+    "_id": "6a813ae7371102070a57728c",
+    "created": "2026-08-16T04:21:59.096Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "64e4ae7dbd2e4c5182461238",
+      "slug": "49040095",
+      "name": "Lachuer"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 416316
+  },
+  {
+    "_id": "6a808096bcb06b06e35c38e9",
+    "created": "2026-08-15T15:07:02.868Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "6a635ac06767b305a9938256",
+      "slug": "50060523",
+      "name": "Bamba"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 527143,
+        "_id": "6a808096bcb06b06e35c38ea"
+      }
+    ],
+    "price": 541245
+  },
+  {
+    "_id": "6a8080962492a906d652c041",
+    "created": "2026-08-15T15:07:02.861Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "5901132b394a188305e1104e",
+      "slug": "67211897",
+      "name": "Tejero"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1112022
+  },
+  {
+    "_id": "6a80777b2bfc0e797f1e75cb",
+    "created": "2026-08-15T14:28:11.342Z",
+    "_playerTeam": {
+      "_id": "52026c99fdbb14c13700007f",
+      "name": "futmondo Liga Adelante",
+      "slug": "futmondo"
+    },
+    "_player": {
+      "_id": "5f5a930b58df197b1823bfe7",
+      "slug": "83206392",
+      "name": "Samú Costa"
+    },
+    "_seller": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [],
+    "price": 1905494
+  },
+  {
+    "_id": "6a7f33e8e0878e1908482f8f",
+    "created": "2026-08-14T15:27:36.448Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "5e5183d79b90ee659b6709c3",
+      "slug": "67258817",
+      "name": "Guillamón"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 908307
+  },
+  {
+    "_id": "6a7f31e55d2f3819021298d2",
+    "created": "2026-08-14T15:19:01.969Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "68b37c6461185205e8c364db",
+      "slug": "49052370",
+      "name": "Ounahi"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 3745256
+  },
+  {
+    "_id": "6a7f30d6e0878e190848273c",
+    "created": "2026-08-14T15:14:30.695Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6680234099f9bf415ff43508",
+      "slug": "83111528",
+      "name": "Douglas Aurelio"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 152708
+  },
+  {
+    "_id": "6a7f30d0dc49c8191c85e0a2",
+    "created": "2026-08-14T15:14:24.391Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef066e284b949d26e089a",
+      "slug": "2000048835",
+      "name": "Coke Carrillo"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 276553
+  },
+  {
+    "_id": "6a7f30c9e0878e1908482731",
+    "created": "2026-08-14T15:14:17.863Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "559161e7a1736b3a4284452a",
+      "slug": "67200926",
+      "name": "Córdoba"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1124812
+  },
+  {
+    "_id": "6a7f2f11204b730705c7c394",
+    "created": "2026-08-14T15:06:57.235Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "57b94cfee3480bb6049eb14b",
+      "slug": "67232115",
+      "name": "Fran Beltrán"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 1799999
+  },
+  {
+    "_id": "6a7f2f1177538f06fee0eb44",
+    "created": "2026-08-14T15:06:57.205Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "520a7499e9c18c8a6b00000f",
+      "name": "Salvi",
+      "slug": "67193445"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 149999
+  },
+  {
+    "_id": "6a7f2f11e734a5070b1aa61b",
+    "created": "2026-08-14T15:06:57.201Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "62da4654b1a2d22da1beec21",
+      "slug": "67287663",
+      "name": "Tasende"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 457133
+  },
+  {
+    "_id": "6a7f2f11a22993071fd9cd33",
+    "created": "2026-08-14T15:06:57.198Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "617870ea19cdba067908aeae",
+      "slug": "67246348",
+      "name": "Chapela"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 599999,
+        "_id": "6a7f2f11a22993071fd9cd34"
+      }
+    ],
+    "price": 866690
+  },
+  {
+    "_id": "6a7f2f1150bb0606ff8ae706",
+    "created": "2026-08-14T15:06:57.158Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "510a614da6137b980e025623",
+      "name": "Arbilla",
+      "slug": "1509367"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 509999
+  },
+  {
+    "_id": "6a7f2f085d2f3819021294c0",
+    "created": "2026-08-14T15:06:48.608Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "6a3c2671b4406e03a4ddda51",
+      "slug": "2000328860",
+      "name": "Acimovic"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 95734
+  },
+  {
+    "_id": "6a7edb42885ca11923863e0c",
+    "created": "2026-08-14T09:09:22.799Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "5cf19e20fe811c5ea8228fb4",
+      "slug": "67249495",
+      "name": "Javi Martínez"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 367207
+  },
+  {
+    "_id": "6a7edb3cf1e466192dfb2540",
+    "created": "2026-08-14T09:09:16.375Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "6861866710e96b333e0b041f",
+      "slug": "2000141739",
+      "name": "Aleix Garrido"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 586623
+  },
+  {
+    "_id": "6a7edb2ddc49c8191c858918",
+    "created": "2026-08-14T09:09:01.704Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "668021fd0ab8ba417f32719a",
+      "slug": "2000049421",
+      "name": "Villahermosa"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1995615
+  },
+  {
+    "_id": "6a7edb27f1e466192dfb2539",
+    "created": "2026-08-14T09:08:55.568Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "60d737a73276e403f1522289",
+      "slug": "67293720",
+      "name": "Aldasoro"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 690963
+  },
+  {
+    "_id": "6a7edb155d2f38190212309b",
+    "created": "2026-08-14T09:08:37.682Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "63f110d1d23ee55b4b13165d",
+      "slug": "2000065644",
+      "name": "Álvaro Aceves"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 490167
+  },
+  {
+    "_id": "6a7ed23a2b7ccc19156cea38",
+    "created": "2026-08-14T08:30:50.740Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "69629a30a1414403d00a4ca4",
+      "slug": "unax-ayo-larranaga",
+      "name": "Unax Ayo"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 176744
+  },
+  {
+    "_id": "6a7ed2308b3d83192a579f22",
+    "created": "2026-08-14T08:30:40.660Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef6a44da74b49f56d3e91",
+      "slug": "2000119313",
+      "name": "Álvaro Marín"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 278788
+  },
+  {
+    "_id": "6a7eac0fe0878e19084767c0",
+    "created": "2026-08-14T05:47:59.212Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6a4edf381e87c805994b7042",
+      "slug": "2000325875",
+      "name": "Bellari"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 193631
+  },
+  {
+    "_id": "6a7e9a66e0878e1908475c86",
+    "created": "2026-08-14T04:32:38.889Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "68a24e8103d6620409fb631f",
+      "slug": "2000312515",
+      "name": "Eceizabarrena"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 391689
+  },
+  {
+    "_id": "6a7e9934f1e466192dfad797",
+    "created": "2026-08-14T04:27:32.938Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "67c49acdeba23e04138fd0c1",
+      "slug": "2000214907",
+      "name": "Mariezkurrena"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 400523
+  },
+  {
+    "_id": "6a7e990f8b3d83192a5769af",
+    "created": "2026-08-14T04:26:55.572Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "5d5a55bf3509215320eba652",
+      "slug": "67272780",
+      "name": "Obeng"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 280841
+  },
+  {
+    "_id": "6a7e98b9dc49c8191c854e48",
+    "created": "2026-08-14T04:25:29.536Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef4fd6f66b849fc984ccd",
+      "slug": "2000161848",
+      "name": "Capdevila"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 219819
+  },
+  {
+    "_id": "6a7e98545f2b16190921b692",
+    "created": "2026-08-14T04:23:48.731Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66688b34bd5be20441bd1fbb",
+      "slug": "67279756",
+      "name": "Álex Sala"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1660061
+  },
+  {
+    "_id": "6a7e982d885ca1192385fece",
+    "created": "2026-08-14T04:23:09.842Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "6866a65d65100f3368c8fea9",
+      "slug": "2000258074",
+      "name": "Ochieng"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1960160
+  },
+  {
+    "_id": "6a7e97d9a92e610719d2d7a1",
+    "created": "2026-08-14T04:21:45.622Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "663fe5038e3e1a03c9914a04",
+      "slug": "2000064228",
+      "name": "Jorge Moreno"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 349999
+  },
+  {
+    "_id": "6a7e97d977538f06fee0c03b",
+    "created": "2026-08-14T04:21:45.617Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "57c32a495cfb0eb30a213b06",
+      "slug": "67213756",
+      "name": "Amath Ndiaye"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 542173
+  },
+  {
+    "_id": "6a7e97d9a9c7c80711780b2c",
+    "created": "2026-08-14T04:21:45.580Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "686c48907ca820040f50b74a",
+      "slug": "14229892",
+      "name": "Sienra"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 240551
+  },
+  {
+    "_id": "6a7e97d9a92e610719d2d79b",
+    "created": "2026-08-14T04:21:45.540Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "521b39b0a48e0b7337000010",
+      "name": "Curro",
+      "slug": "67184472"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1858000,
+        "_id": "6a7e97d9a92e610719d2d79c"
+      }
+    ],
+    "price": 2154211
+  },
+  {
+    "_id": "6a7e97d950bb0606ff8abfbb",
+    "created": "2026-08-14T04:21:45.523Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a3e72036f66b849fc984cb4",
+      "slug": "2000053498",
+      "name": "Noel López"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 200170,
+        "_id": "6a7e97d950bb0606ff8abfbc"
+      },
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 200000,
+        "_id": "6a7e97d950bb0606ff8abfbd"
+      }
+    ],
+    "price": 785555
+  },
+  {
+    "_id": "6a7e97d978c2bf0727ad5efa",
+    "created": "2026-08-14T04:21:45.485Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "610c000ec16ee36065aa49b2",
+      "slug": "67256514",
+      "name": "Gelabert"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 3035421
+  },
+  {
+    "_id": "6a7e84e32b7ccc19156cb3f2",
+    "created": "2026-08-14T03:00:51.623Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "5214648b335a2e4c02000023",
+      "name": "Pere Pons",
+      "slug": "67181341"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 617909
+  },
+  {
+    "_id": "6a7e17def5183a062ab827ac",
+    "created": "2026-08-13T19:15:42.578Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "6117fbe82806395bcad48143",
+      "slug": "2000119436",
+      "name": "Naim García"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 338107
+  },
+  {
+    "_id": "6a7e0fae1dbf250604c521d7",
+    "created": "2026-08-13T18:40:46.723Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "6a4845e80f1d1649c3bb0473",
+      "slug": "2000139834",
+      "name": "Rastrojo"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 161285
+  },
+  {
+    "_id": "6a7e0fa091d90505fdfa4e5d",
+    "created": "2026-08-13T18:40:32.969Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "668bf4f67fc6ff03fb06f4e2",
+      "slug": "2000056553",
+      "name": "Javi Villar"
+    },
+    "_seller": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 244103
+  },
+  {
+    "_id": "6a7ddd8db2222b06e487d1ef",
+    "created": "2026-08-13T15:06:53.103Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "6866a65d65100f3368c8fea9",
+      "slug": "2000258074",
+      "name": "Ochieng"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1926170
+  },
+  {
+    "_id": "6a7ddd8da8f660070518ed84",
+    "created": "2026-08-13T15:06:53.088Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "53f5242451d80db613000019",
+      "name": "Andrés Fernández",
+      "slug": "67015052"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1761374,
+        "_id": "6a7ddd8da8f660070518ed85"
+      }
+    ],
+    "price": 2370000
+  },
+  {
+    "_id": "6a7ddd8d28a3dc06fec7022a",
+    "created": "2026-08-13T15:06:53.084Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "521b37d89f2adc783700000d",
+      "name": "Matos",
+      "slug": "67157610"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 659999
+  },
+  {
+    "_id": "6a7ddd8dc7dadc06f0edabc9",
+    "created": "2026-08-13T15:06:53.071Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "68669d9710e96b333e0b08bb",
+      "slug": "49054312",
+      "name": "Diallo"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 3969999
+  },
+  {
+    "_id": "6a7ddd8d3cc864070c1e0a61",
+    "created": "2026-08-13T15:06:53.069Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66688b34bd5be20441bd1fbb",
+      "slug": "67279756",
+      "name": "Álex Sala"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 1595879
+  },
+  {
+    "_id": "6a7ddd8dc0970506f6b825bc",
+    "created": "2026-08-13T15:06:53.049Z",
+    "_playerTeam": {
+      "_id": "62a83ae5390b79040d8e6db8",
+      "name": "Andorra",
+      "slug": "andorra"
+    },
+    "_player": {
+      "_id": "6865b0658486ff33404f2ee1",
+      "slug": "48042318",
+      "name": "Carrique"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 524733,
+        "_id": "6a7ddd8dc0970506f6b825bd"
+      }
+    ],
+    "price": 570178
+  },
+  {
+    "_id": "6a7ddd8cb2222b06e487d1eb",
+    "created": "2026-08-13T15:06:53.022Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "5d5a55bf3509215320eba652",
+      "slug": "67272780",
+      "name": "Obeng"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 300854
+  },
+  {
+    "_id": "6a7dc46991d90505fdf9f033",
+    "created": "2026-08-13T13:19:37.706Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "67424f89d3f3070548316562",
+      "slug": "2000384606",
+      "name": "Expósito"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 102909
+  },
+  {
+    "_id": "6a7dc453b52cfe060a9c0046",
+    "created": "2026-08-13T13:19:15.381Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef45d94becb49b7f558c8",
+      "slug": "2000332656",
+      "name": "Gavián"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 323565
+  },
+  {
+    "_id": "6a7dc32b2282e00619ff9d11",
+    "created": "2026-08-13T13:14:19.631Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "6a4aa1d0c40ad549f036e759",
+      "slug": "2000100058",
+      "name": "Toibibou"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 417033
+  },
+  {
+    "_id": "6a7dc31d91d90505fdf9efea",
+    "created": "2026-08-13T13:14:05.843Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "57b032e020aa5ca26063be22",
+      "slug": "67193103",
+      "name": "Juan Soriano"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 1052474
+  },
+  {
+    "_id": "6a7d4653a8f660070518c638",
+    "created": "2026-08-13T04:21:39.688Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "52449afe0038715b1a000074",
+      "name": "Clerc",
+      "slug": "67147196"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 399999,
+        "_id": "6a7d4653a8f660070518c63b"
+      }
+    ],
+    "price": 712451
+  },
+  {
+    "_id": "6a7d4653c7dadc06f0ed8295",
+    "created": "2026-08-13T04:21:39.672Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "6920e988eebf5703d5757b00",
+      "slug": "2000272710",
+      "name": "Morientes"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 111250
+  },
+  {
+    "_id": "6a7d4653c0970506f6b7fca9",
+    "created": "2026-08-13T04:21:39.667Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "65bfd37631a93003f67b285a",
+      "slug": "2000213643",
+      "name": "Omar Sadik"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 588708,
+        "_id": "6a7d4653c0970506f6b7fcab"
+      }
+    ],
+    "price": 607105
+  },
+  {
+    "_id": "6a7d46533cc864070c1de281",
+    "created": "2026-08-13T04:21:39.656Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "5214648b335a2e4c0200001c",
+      "name": "Gumbau",
+      "slug": "67207185"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 1950999
+  },
+  {
+    "_id": "6a7d465361774c06e30e9d3b",
+    "created": "2026-08-13T04:21:39.650Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "68b37c6461185205e8c364db",
+      "slug": "49052370",
+      "name": "Ounahi"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 3672436
+  },
+  {
+    "_id": "6a7d4653c7dadc06f0ed8290",
+    "created": "2026-08-13T04:21:39.596Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "5b00697f1d938c403eb8814f",
+      "slug": "67214451",
+      "name": "Luca Zidane"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 759999
+  },
+  {
+    "_id": "6a7ca0781a4b681ab04dc3ea",
+    "created": "2026-08-12T16:34:00.226Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "686c48907ca820040f50b74a",
+      "slug": "14229892",
+      "name": "Sienra"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 264705
+  },
+  {
+    "_id": "6a7c9fff34663d1acc789434",
+    "created": "2026-08-12T16:31:59.504Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "631359c94d62f907159399dc",
+      "slug": "67293676",
+      "name": "Balboa"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 220853
+  },
+  {
+    "_id": "6a7c8c09b55d9c0737927405",
+    "created": "2026-08-12T15:06:49.132Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "5214648b335a2e4c02000023",
+      "name": "Pere Pons",
+      "slug": "67181341"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 555555,
+        "_id": "6a7c8c09b55d9c0737927406"
+      }
+    ],
+    "price": 601000
+  },
+  {
+    "_id": "6a7c8c09da94cf0744357776",
+    "created": "2026-08-12T15:06:49.132Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "68699075ca4e6a3314378f74",
+      "slug": "2000051946",
+      "name": "Alcázar"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 732144,
+        "_id": "6a7c8c09da94cf0744357777"
+      }
+    ],
+    "price": 890002
+  },
+  {
+    "_id": "6a7c8c09e9b4520752c33cbe",
+    "created": "2026-08-12T15:06:49.126Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "631df5a1287ecc0738b4c26d",
+      "slug": "2000057039",
+      "name": "Diego Sánchez"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 612451,
+        "_id": "6a7c8c09e9b4520752c33cc0"
+      }
+    ],
+    "price": 706502
+  },
+  {
+    "_id": "6a7c8c092d55de073832d2d6",
+    "created": "2026-08-12T15:06:49.095Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "5d36296b1ec7637ac71e2127",
+      "slug": "67272544",
+      "name": "Manu Fuster"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 2495000,
+        "_id": "6a7c8c092d55de073832d2d8"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 2395073,
+        "_id": "6a7c8c092d55de073832d2d9"
+      }
+    ],
+    "price": 2802879
+  },
+  {
+    "_id": "6a7c8c09185f06074b28bdbc",
+    "created": "2026-08-12T15:06:49.084Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "64b1c502c35fcb3cfd3ed505",
+      "slug": "67258945",
+      "name": "Youness"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 666666,
+        "_id": "6a7c8c09185f06074b28bdbe"
+      }
+    ],
+    "price": 700009
+  },
+  {
+    "_id": "6a7c8c09a9d1f1073e4652f0",
+    "created": "2026-08-12T15:06:49.064Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "62c8716522e5842d7daa0fde",
+      "slug": "76040741",
+      "name": "Otero"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 3333300,
+        "_id": "6a7c8c09a9d1f1073e4652f1"
+      }
+    ],
+    "price": 3574889
+  },
+  {
+    "_id": "6a7c8c0802493c076030496e",
+    "created": "2026-08-12T15:06:49.005Z",
+    "_playerTeam": {
+      "_id": "62a83ae5390b79040d8e6db8",
+      "name": "Andorra",
+      "slug": "andorra"
+    },
+    "_player": {
+      "_id": "6865b0fd65100f3368c8fe9b",
+      "slug": "2000056427",
+      "name": "Doménech"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 670000
+  },
+  {
+    "_id": "6a7c8c08d038e807598dd544",
+    "created": "2026-08-12T15:06:48.983Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "5b3b81e7fd4170c94aa3e0cb",
+      "slug": "67177648",
+      "name": "Corpas"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 1849868
+  },
+  {
+    "_id": "6a7bf4cce9b4520752c31453",
+    "created": "2026-08-12T04:21:32.730Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "6a3c4b505382de03a5b929a7",
+      "slug": "37076864",
+      "name": "De Rooij"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 533288
+  },
+  {
+    "_id": "6a7bf4cca9d1f1073e4628ff",
+    "created": "2026-08-12T04:21:32.718Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "51d70ed7a7178a7654000012",
+      "name": "Mojica",
+      "slug": "76020280"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 1699999
+  },
+  {
+    "_id": "6a7bf4cc2d55de073832ab7c",
+    "created": "2026-08-12T04:21:32.693Z",
+    "_playerTeam": {
+      "_id": "62a83ae5390b79040d8e6db8",
+      "name": "Andorra",
+      "slug": "andorra"
+    },
+    "_player": {
+      "_id": "64b4fa0b7646a13cd3cca718",
+      "slug": "67278255",
+      "name": "Lautaro de León"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [],
+    "price": 556373
+  },
+  {
+    "_id": "6a7bf4ccd038e807598dadbb",
+    "created": "2026-08-12T04:21:32.648Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "5cfc2be98721525ead8d94b1",
+      "slug": "67263880",
+      "name": "Gragera"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 599081,
+        "_id": "6a7bf4ccd038e807598dadbc"
+      }
+    ],
+    "price": 800500
+  },
+  {
+    "_id": "6a7bf4ccb55d9c0737924b9d",
+    "created": "2026-08-12T04:21:32.646Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "63c6945172c559051c25d9fa",
+      "slug": "71080414",
+      "name": "Tsygankov"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 3700000,
+        "_id": "6a7bf4ccb55d9c0737924b9e"
+      }
+    ],
+    "price": 3799999
+  },
+  {
+    "_id": "6a7bf4ccd038e807598dadb5",
+    "created": "2026-08-12T04:21:32.572Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a3e6ee94da74b49f56d37ef",
+      "slug": "2000026040",
+      "name": "Juanjo"
+    },
+    "_buyer": {
+      "_id": "6a71db7022a20e3ce354a8a9",
+      "name": "Zeben Díaz"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 259999,
+        "_id": "6a7bf4ccd038e807598dadb6"
+      }
+    ],
+    "price": 999999
+  },
+  {
+    "_id": "6a7b73011b5c40224db0c640",
+    "created": "2026-08-11T19:07:45.590Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "6a621e6b58624805c6d28a89",
+      "slug": "2000006181",
+      "name": "Gharbi"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 2333845
+  },
+  {
+    "_id": "6a7b3a8b4cb73607016582d3",
+    "created": "2026-08-11T15:06:51.181Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "5f36db010b759303ff680104",
+      "slug": "67258832",
+      "name": "Iván Martín "
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71db7022a20e3ce354a8a9",
+          "name": "Zeben Díaz"
+        },
+        "bid": 2799999,
+        "_id": "6a7b3a8b4cb73607016582d4"
+      }
+    ],
+    "price": 2812481
+  },
+  {
+    "_id": "6a7b3a8bbb4a2e06e017b585",
+    "created": "2026-08-11T15:06:51.157Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "6060aa1a7a64b003da0efc7d",
+      "slug": "2000062512",
+      "name": "Arnau Martínez"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1820805,
+        "_id": "6a7b3a8bbb4a2e06e017b586"
+      }
+    ],
+    "price": 1850000
+  },
+  {
+    "_id": "6a7b3a8bf0385406e6ae5ef4",
+    "created": "2026-08-11T15:06:51.146Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "5a525dc6f1e0f19d06935999",
+      "slug": "67215620",
+      "name": "Arnáiz"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1983801,
+        "_id": "6a7b3a8bf0385406e6ae5ef6"
+      }
+    ],
+    "price": 2542184
+  },
+  {
+    "_id": "6a7b3a8b8de675070818f5da",
+    "created": "2026-08-11T15:06:51.131Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "54c509f75d97b9070200178c",
+      "name": "Dani Calvo",
+      "slug": "67218464"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1254890,
+        "_id": "6a7b3a8b8de675070818f5db"
+      }
+    ],
+    "price": 1352000
+  },
+  {
+    "_id": "6a7b3a8b0677cd06f9b047fe",
+    "created": "2026-08-11T15:06:51.122Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "5b34a5c720ba80411d09b254",
+      "slug": "43077014",
+      "name": "Juan Cruz"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1084890,
+        "_id": "6a7b3a8b0677cd06f9b047ff"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1045124,
+        "_id": "6a7b3a8b0677cd06f9b04800"
+      }
+    ],
+    "price": 1350000
+  },
+  {
+    "_id": "6a7adccb2bf30d22449ee36c",
+    "created": "2026-08-11T08:26:51.300Z",
+    "_playerTeam": {
+      "_id": "52026c99fdbb14c13700007f",
+      "name": "futmondo Liga Adelante",
+      "slug": "futmondo"
+    },
+    "_player": {
+      "_id": "53a81f8f29ac524401000562",
+      "name": "Campaña",
+      "slug": "67089223"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 407188
+  },
+  {
+    "_id": "6a7aa3441f4ebd06f3adfb80",
+    "created": "2026-08-11T04:21:24.608Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "68a24f037788480428a800a9",
+      "slug": "2000411806",
+      "name": "Carrera"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1741254
+  },
+  {
+    "_id": "6a7aa3440677cd06f9b02162",
+    "created": "2026-08-11T04:21:24.565Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "6a621e6b58624805c6d28a89",
+      "slug": "2000006181",
+      "name": "Gharbi"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 2188300
+  },
+  {
+    "_id": "6a7aa344f0385406e6ae360d",
+    "created": "2026-08-11T04:21:24.546Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "631359c94d62f907159399dc",
+      "slug": "67293676",
+      "name": "Balboa"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 206279
+  },
+  {
+    "_id": "6a7aa3444cb736070165588a",
+    "created": "2026-08-11T04:21:24.534Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "66f02d94edad190541669993",
+      "slug": "2000320997",
+      "name": "Dani Fernández"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 382000,
+        "_id": "6a7aa3444cb736070165588b"
+      }
+    ],
+    "price": 633355
+  },
+  {
+    "_id": "6a7aa3440677cd06f9b0215d",
+    "created": "2026-08-11T04:21:24.491Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6a46854f0556b649e339f706",
+      "slug": "2000184180",
+      "name": "Rego"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [],
+    "price": 1343592
+  },
+  {
+    "_id": "6a7aa344f0385406e6ae3606",
+    "created": "2026-08-11T04:21:24.481Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "5b59e02c66831ded570d44f4",
+      "slug": "43143925",
+      "name": "Valjent"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1850000,
+        "_id": "6a7aa344f0385406e6ae3607"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1830841,
+        "_id": "6a7aa344f0385406e6ae3608"
+      }
+    ],
+    "price": 2150221
+  },
+  {
+    "_id": "6a7aa3444cb7360701655883",
+    "created": "2026-08-11T04:21:24.460Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "66c3dd6266afd303cfc7a24c",
+      "slug": "67260198",
+      "name": "Diarra"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 800300,
+        "_id": "6a7aa3444cb7360701655884"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 689887,
+        "_id": "6a7aa3444cb7360701655885"
+      }
+    ],
+    "price": 845500
+  },
+  {
+    "_id": "6a7a95c94292df223986313a",
+    "created": "2026-08-11T03:23:53.488Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "697be226df6332040670c6c1",
+      "slug": "2000447536",
+      "name": "Izan González"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 935763
+  },
+  {
+    "_id": "6a79ff3b271bc47f16b61927",
+    "created": "2026-08-10T16:41:31.370Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "6a4a827a6f66b849fc986ff7",
+      "slug": "2000274878",
+      "name": "Kopotun"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 371476
+  },
+  {
+    "_id": "6a79fc80ad6ca27f3d8c5833",
+    "created": "2026-08-10T16:29:52.466Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "5b4927882ba3df9c6027c60c",
+      "slug": "13169837",
+      "name": "Opoku"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 719972
+  },
+  {
+    "_id": "6a79e8fe9f7e86070c18e417",
+    "created": "2026-08-10T15:06:38.751Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "630a829941ea9a0700da991f",
+      "slug": "2000023738",
+      "name": "Javi Llabrés"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 658879,
+        "_id": "6a79e8fe9f7e86070c18e418"
+      }
+    ],
+    "price": 820221
+  },
+  {
+    "_id": "6a79e8fe3f3a1b06fd6d9f1e",
+    "created": "2026-08-10T15:06:38.728Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6680234099f9bf415ff43508",
+      "slug": "83111528",
+      "name": "Douglas Aurelio"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 179785
+  },
+  {
+    "_id": "6a79e8fe311a2a07057eacc5",
+    "created": "2026-08-10T15:06:38.702Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "521464ea0c36b84d02000011",
+      "name": "Rubén Yáñez",
+      "slug": "67157155"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1222221
+  },
+  {
+    "_id": "6a79e8fe35a51c0713d314c7",
+    "created": "2026-08-10T15:06:38.683Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "66801effa45e45414d932a0c",
+      "slug": "37084941",
+      "name": "Chirino"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 882870
+  },
+  {
+    "_id": "6a79e8fe311a2a07057eacc0",
+    "created": "2026-08-10T15:06:38.633Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "64e4adeb2d022151504b7852",
+      "slug": "24050201",
+      "name": "Juric"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 787827,
+        "_id": "6a79e8fe311a2a07057eacc1"
+      }
+    ],
+    "price": 1200111
+  },
+  {
+    "_id": "6a79c6c0cd2f577f1c8dd13a",
+    "created": "2026-08-10T12:40:32.197Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "596bc1afc6269ff074e8eecb",
+      "slug": "43195831",
+      "name": "Brignani"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1354188
+  },
+  {
+    "_id": "6a7951a9311a2a07057e8839",
+    "created": "2026-08-10T04:20:57.517Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "67424f89d3f3070548316562",
+      "slug": "2000384606",
+      "name": "Expósito"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 181806
+  },
+  {
+    "_id": "6a7951a9b69f8706f74a33d6",
+    "created": "2026-08-10T04:20:57.510Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "63f110d1d23ee55b4b13165d",
+      "slug": "2000065644",
+      "name": "Álvaro Aceves"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 463523,
+        "_id": "6a7951a9b69f8706f74a33d7"
+      }
+    ],
+    "price": 472141
+  },
+  {
+    "_id": "6a7951a93f3a1b06fd6d7a8c",
+    "created": "2026-08-10T04:20:57.504Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "60ed405c1a405a604ca8c30e",
+      "slug": "67246376",
+      "name": "Petxarromán"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 185888
+  },
+  {
+    "_id": "6a7951a92885ba06eae3c03f",
+    "created": "2026-08-10T04:20:57.455Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "5b349170744d2a591d3e570c",
+      "slug": "67243316",
+      "name": "Fran Gámez"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 712452
+  },
+  {
+    "_id": "6a7951a9b69f8706f74a33d0",
+    "created": "2026-08-10T04:20:57.431Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "664a568836df000455d61ab7",
+      "slug": "2000301951",
+      "name": "Rodelas"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 856822
+  },
+  {
+    "_id": "6a7951a93f3a1b06fd6d7a87",
+    "created": "2026-08-10T04:20:57.431Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a70a9bfdb5fee059d38efff",
+      "slug": "63038211",
+      "name": "Jureskin"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 380000
+  },
+  {
+    "_id": "6a7951a935a51c0713d2ee7e",
+    "created": "2026-08-10T04:20:57.348Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef6a44da74b49f56d3e91",
+      "slug": "2000119313",
+      "name": "Álvaro Marín"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 276141,
+        "_id": "6a7951a935a51c0713d2ee80"
+      }
+    ],
+    "price": 375858
+  },
+  {
+    "_id": "6a7951a92885ba06eae3c033",
+    "created": "2026-08-10T04:20:57.274Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "5b4927882ba3df9c6027c60c",
+      "slug": "13169837",
+      "name": "Opoku"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 750000,
+        "_id": "6a7951a92885ba06eae3c035"
+      }
+    ],
+    "price": 750000
+  },
+  {
+    "_id": "6a7951a9311a2a07057e8827",
+    "created": "2026-08-10T04:20:57.270Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef377fbf1b749ca99ce1e",
+      "slug": "2000131779",
+      "name": "Ribes"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 189899
+  },
+  {
+    "_id": "6a7951a93f3a1b06fd6d7a78",
+    "created": "2026-08-10T04:20:57.220Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "67a20a0211722503f4a28b32",
+      "slug": "86066847",
+      "name": "Landázuri"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1048807,
+        "_id": "6a7951a93f3a1b06fd6d7a79"
+      }
+    ],
+    "price": 1650000
+  },
+  {
+    "_id": "6a789a80a054723dcabfbe62",
+    "created": "2026-08-09T15:19:28.096Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "6713fdc9a1b917176a03238a",
+      "slug": "2000276500",
+      "name": "Min-su Kim"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1828063
+  },
+  {
+    "_id": "6a78977b434d2c0741db1a8b",
+    "created": "2026-08-09T15:06:36.011Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "60d737a73276e403f1522289",
+      "slug": "67293720",
+      "name": "Aldasoro"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 739650,
+        "_id": "6a78977c434d2c0741db1a8c"
+      }
+    ],
+    "price": 841741
+  },
+  {
+    "_id": "6a78977b5c0261074ef66c8e",
+    "created": "2026-08-09T15:06:36.008Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "67c49acdeba23e04138fd0c1",
+      "slug": "2000214907",
+      "name": "Mariezkurrena"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 393919
+  },
+  {
+    "_id": "6a78977b84c93407555d16e4",
+    "created": "2026-08-09T15:06:36.005Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef4fd6f66b849fc984ccd",
+      "slug": "2000161848",
+      "name": "Capdevila"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 189346,
+        "_id": "6a78977c84c93407555d16e5"
+      }
+    ],
+    "price": 196300
+  },
+  {
+    "_id": "6a78977bee4b19073bdb5220",
+    "created": "2026-08-09T15:06:35.994Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "5d36e967c74d6a7af8a68336",
+      "slug": "19270874",
+      "name": "Marcos André"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 679082
+  },
+  {
+    "_id": "6a78977bcd800f073af6e37f",
+    "created": "2026-08-09T15:06:35.965Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "66a3d3797fc6ff03fb06facb",
+      "name": "Lavagnino",
+      "slug": "2000096565"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 220000,
+        "_id": "6a78977bcd800f073af6e381"
+      }
+    ],
+    "price": 309030
+  },
+  {
+    "_id": "6a78977bd527a107479268ad",
+    "created": "2026-08-09T15:06:35.946Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "51ffb2540ac2ec8b0700001e",
+      "name": "Dani Rodríguez",
+      "slug": "1509441"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 510000,
+        "_id": "6a78977bd527a107479268b0"
+      }
+    ],
+    "price": 645781
+  },
+  {
+    "_id": "6a78977b434d2c0741db1a84",
+    "created": "2026-08-09T15:06:35.932Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "5b3fbb9b3ad1dd960b5399ec",
+      "slug": "67157518",
+      "name": "Ander Cantero"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 1800500,
+        "_id": "6a78977b434d2c0741db1a85"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1742542,
+        "_id": "6a78977b434d2c0741db1a86"
+      }
+    ],
+    "price": 1990369
+  },
+  {
+    "_id": "6a78977bee4b19073bdb521b",
+    "created": "2026-08-09T15:06:35.921Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "5cc4881ad115ac0404427374",
+      "slug": "67252958",
+      "name": "De La Fuente"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1618859,
+        "_id": "6a78977bee4b19073bdb521c"
+      }
+    ],
+    "price": 1996053
+  },
+  {
+    "_id": "6a78282d20b9c23df2de7c5e",
+    "created": "2026-08-09T07:11:41.919Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "6a00fedfe126e303cfe91b78",
+      "slug": "2000511477",
+      "name": "Zinebi"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 102844
+  },
+  {
+    "_id": "6a780017434d2c0741daf8bf",
+    "created": "2026-08-09T04:20:39.823Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "6a4845e80f1d1649c3bb0473",
+      "slug": "2000139834",
+      "name": "Rastrojo"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 184331
+  },
+  {
+    "_id": "6a780017ee4b19073bdb2e86",
+    "created": "2026-08-09T04:20:39.808Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "5f4fbca3c5c6f903e7c2522d",
+      "slug": "67258949",
+      "name": "Rober González"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1444255,
+        "_id": "6a780017ee4b19073bdb2e87"
+      }
+    ],
+    "price": 1845124
+  },
+  {
+    "_id": "6a78001784c93407555cf2d5",
+    "created": "2026-08-09T04:20:39.799Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "668bf4f67fc6ff03fb06f4e2",
+      "slug": "2000056553",
+      "name": "Javi Villar"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 268592
+  },
+  {
+    "_id": "6a7800175c0261074ef6498f",
+    "created": "2026-08-09T04:20:39.770Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "6713fdc9a1b917176a03238a",
+      "slug": "2000276500",
+      "name": "Min-su Kim"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1792132
+  },
+  {
+    "_id": "6a780017cd800f073af6c19c",
+    "created": "2026-08-09T04:20:39.765Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "65738d085a61972b4cdfb217",
+      "slug": "67293617",
+      "name": "Jordi Martín"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [],
+    "price": 197000
+  },
+  {
+    "_id": "6a780017d0d5d20763313dec",
+    "created": "2026-08-09T04:20:39.715Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "6a4a827a6f66b849fc986ff7",
+      "slug": "2000274878",
+      "name": "Kopotun"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 369870
+  },
+  {
+    "_id": "6a7800171c7bd6075c3a466c",
+    "created": "2026-08-09T04:20:39.708Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "6309137271721d2b8319bfa7",
+      "slug": "67293621",
+      "name": "Latasa"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 736508,
+        "_id": "6a7800171c7bd6075c3a466d"
+      }
+    ],
+    "price": 1086808
+  },
+  {
+    "_id": "6a780017434d2c0741daf8ac",
+    "created": "2026-08-09T04:20:39.607Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "67a8cff7fdee6403d894ab59",
+      "slug": "2000271322",
+      "name": "César"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 413301,
+        "_id": "6a780017434d2c0741daf8ad"
+      }
+    ],
+    "price": 813801
+  },
+  {
+    "_id": "6a780017d527a10747924442",
+    "created": "2026-08-09T04:20:39.561Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "53ac3e6c1933f2de6f0003fc",
+      "name": "Álex Moreno",
+      "slug": "67153373"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1320374,
+        "_id": "6a780017d527a10747924443"
+      }
+    ],
+    "price": 2000000
+  },
+  {
+    "_id": "6a780017cd800f073af6c188",
+    "created": "2026-08-09T04:20:39.527Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "6861866710e96b333e0b041f",
+      "slug": "2000141739",
+      "name": "Aleix Garrido"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 584892,
+        "_id": "6a780017cd800f073af6c189"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 564292,
+        "_id": "6a780017cd800f073af6c18a"
+      }
+    ],
+    "price": 612412
+  },
+  {
+    "_id": "6a780017d527a1074792443e",
+    "created": "2026-08-09T04:20:39.492Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "5a5f33c9eb9cbdaf693f8519",
+      "slug": "67240042",
+      "name": "Pablo Vázquez"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 586890
+  },
+  {
+    "_id": "6a77926c8cb3d21d8ce335b7",
+    "created": "2026-08-08T20:32:44.345Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "67597e6b317cba0418bce297",
+      "slug": "2000027383",
+      "name": "Dani Luna"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 584443
+  },
+  {
+    "_id": "6a7745f689a40c06fb773ecc",
+    "created": "2026-08-08T15:06:30.283Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "671ebc9eeb91482e4c34598e",
+      "slug": "2000302402",
+      "name": "Naasei"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 586879,
+        "_id": "6a7745f689a40c06fb773ece"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 486781,
+        "_id": "6a7745f689a40c06fb773ecf"
+      }
+    ],
+    "price": 665358
+  },
+  {
+    "_id": "6a7745f6d3f0250708441650",
+    "created": "2026-08-08T15:06:30.255Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "64fb90eebc6e0003e0366f4f",
+      "slug": "2000126360",
+      "name": "Roca"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1541245,
+        "_id": "6a7745f6d3f0250708441651"
+      }
+    ],
+    "price": 1650900
+  },
+  {
+    "_id": "6a7745f6202d12071da2457c",
+    "created": "2026-08-08T15:06:30.240Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "69522f8b219d420443393cff",
+      "slug": "89051871",
+      "name": "Erlien"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 532588
+  },
+  {
+    "_id": "6a7745f63aceca070ef52efe",
+    "created": "2026-08-08T15:06:30.229Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "66b352197fc6ff03fb06fb13",
+      "slug": "2000197963",
+      "name": "D. López"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 552548
+  },
+  {
+    "_id": "6a7745f60c29bd0702b7ad44",
+    "created": "2026-08-08T15:06:30.227Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "57b032e020aa5ca26063be22",
+      "slug": "67193103",
+      "name": "Juan Soriano"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1490635,
+        "_id": "6a7745f60c29bd0702b7ad45"
+      }
+    ],
+    "price": 1582869
+  },
+  {
+    "_id": "6a7745f6330d7706fced1994",
+    "created": "2026-08-08T15:06:30.201Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "6a4e14add20b724a05e815d7",
+      "slug": "2000141541",
+      "name": "Eder García"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 585882
+  },
+  {
+    "_id": "6a7745f6202d12071da24577",
+    "created": "2026-08-08T15:06:30.167Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef45d94becb49b7f558c8",
+      "slug": "2000332656",
+      "name": "Gavián"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 383842
+  },
+  {
+    "_id": "6a7745f63aceca070ef52ef8",
+    "created": "2026-08-08T15:06:30.165Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "66b8eb92ce303803d6f7753b",
+      "slug": "2000052248",
+      "name": "Manu Lama"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1499000,
+        "_id": "6a7745f63aceca070ef52ef9"
+      }
+    ],
+    "price": 1894888
+  },
+  {
+    "_id": "6a7745f689a40c06fb773ec2",
+    "created": "2026-08-08T15:06:30.122Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "674b7a94c9efc910567f19b6",
+      "slug": "2000102142",
+      "name": "Smith"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 589886
+  },
+  {
+    "_id": "6a7745f6330d7706fced198f",
+    "created": "2026-08-08T15:06:30.118Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "5e5183d79b90ee659b6709c3",
+      "slug": "67258817",
+      "name": "Guillamón"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 1244440
+  },
+  {
+    "_id": "6a76df5c5fde2f1d958f39ee",
+    "created": "2026-08-08T07:48:44.307Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "62d671cbdeea5c2d8c81fe30",
+      "slug": "67295653",
+      "name": "Iván Morante"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 921960
+  },
+  {
+    "_id": "6a76ae89aa30f90724902df2",
+    "created": "2026-08-08T04:20:25.334Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "6865ae3296e2d6335a297028",
+      "slug": "67252817",
+      "name": "Kone"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1006905,
+        "_id": "6a76ae89aa30f90724902df3"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 758000,
+        "_id": "6a76ae89aa30f90724902df4"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 743076,
+        "_id": "6a76ae89aa30f90724902df5"
+      }
+    ],
+    "price": 1500000
+  },
+  {
+    "_id": "6a76ae8934c4300715bce819",
+    "created": "2026-08-08T04:20:25.325Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "520269005a91a4c637000084",
+      "name": "Albarrán",
+      "slug": "67187253"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 269999
+  },
+  {
+    "_id": "6a76ae890c29bd0702b78c31",
+    "created": "2026-08-08T04:20:25.264Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "6861890daedcdd33075dd01d",
+      "slug": "67275914",
+      "name": "Adri Fuentes"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 2500000,
+        "_id": "6a76ae890c29bd0702b78c33"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 2097003,
+        "_id": "6a76ae890c29bd0702b78c34"
+      }
+    ],
+    "price": 2780609
+  },
+  {
+    "_id": "6a76ae893aceca070ef50eb9",
+    "created": "2026-08-08T04:20:25.253Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "65f5fc5000ffc34f05f1cb1f",
+      "slug": "2000271703",
+      "name": "Jastin"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [],
+    "price": 500000
+  },
+  {
+    "_id": "6a76ae8934c4300715bce811",
+    "created": "2026-08-08T04:20:25.250Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "57b94a3c7ce1feed040b24e3",
+      "slug": "67225488",
+      "name": "Jacobo González"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1790863,
+        "_id": "6a76ae8934c4300715bce812"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1425000,
+        "_id": "6a76ae8934c4300715bce813"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1385411,
+        "_id": "6a76ae8934c4300715bce814"
+      }
+    ],
+    "price": 1900500
+  },
+  {
+    "_id": "6a76ae893aceca070ef50eb5",
+    "created": "2026-08-08T04:20:25.189Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "6956d307913b6604219f0f2b",
+      "slug": "67263275",
+      "name": "Percan"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 122604
+  },
+  {
+    "_id": "6a76ae8934c4300715bce80d",
+    "created": "2026-08-08T04:20:25.177Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "5dd95db28c9cbb41aadcdb9b",
+      "slug": "67244464",
+      "name": "Edgar González"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [],
+    "price": 190111
+  },
+  {
+    "_id": "6a76ae8989a40c06fb771cc7",
+    "created": "2026-08-08T04:20:25.152Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "67597e6b317cba0418bce297",
+      "slug": "2000027383",
+      "name": "Dani Luna"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 583171
+  },
+  {
+    "_id": "6a76ae89202d12071da223d6",
+    "created": "2026-08-08T04:20:25.142Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "687be18bb2ec15040b6eedca",
+      "slug": "49040111",
+      "name": "Ponceau"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1009009,
+        "_id": "6a76ae89202d12071da223d7"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 999000,
+        "_id": "6a76ae89202d12071da223d8"
+      }
+    ],
+    "price": 1368474
+  },
+  {
+    "_id": "6a76ae89d3f025070843f4ef",
+    "created": "2026-08-08T04:20:25.130Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "5f5a930b58df197b1823bfe7",
+      "slug": "83206392",
+      "name": "Samú Costa"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1896131,
+        "_id": "6a76ae89d3f025070843f4f0"
+      }
+    ],
+    "price": 2000000
+  },
+  {
+    "_id": "6a76ae893aceca070ef50eb0",
+    "created": "2026-08-08T04:20:25.119Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "686c48907ca820040f50b74a",
+      "slug": "14229892",
+      "name": "Sienra"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 244999
+  },
+  {
+    "_id": "6a76ae8934c4300715bce806",
+    "created": "2026-08-08T04:20:25.106Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "668021fd0ab8ba417f32719a",
+      "slug": "2000049421",
+      "name": "Villahermosa"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1998390,
+        "_id": "6a76ae8934c4300715bce807"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1732112,
+        "_id": "6a76ae8934c4300715bce808"
+      }
+    ],
+    "price": 2222225
+  },
+  {
+    "_id": "6a76ae89aa30f90724902de0",
+    "created": "2026-08-08T04:20:25.098Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "520d3387254e68866b000067",
+      "name": "Rubén Peña",
+      "slug": "67177699"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 580221,
+        "_id": "6a76ae89aa30f90724902de1"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 514215,
+        "_id": "6a76ae89aa30f90724902de2"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 501906,
+        "_id": "6a76ae89aa30f90724902de3"
+      }
+    ],
+    "price": 800000
+  },
+  {
+    "_id": "6a765234abd95866be185360",
+    "created": "2026-08-07T21:46:28.672Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "55b66c6389aecf2022996b01",
+      "slug": "67083320",
+      "name": "Marc Mateu"
+    },
+    "_seller": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 444981
+  },
+  {
+    "_id": "6a75f472f1a7a706da627bbe",
+    "created": "2026-08-07T15:06:26.708Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "521b69bf359d42743700007f",
+      "name": "Carlos Fernández",
+      "slug": "67184485"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 3124812,
+        "_id": "6a75f472f1a7a706da627bbf"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 3000000,
+        "_id": "6a75f472f1a7a706da627bc0"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 1600000,
+        "_id": "6a75f472f1a7a706da627bc1"
+      }
+    ],
+    "price": 4321000
+  },
+  {
+    "_id": "6a75f472639a4606dbd362ad",
+    "created": "2026-08-07T15:06:26.654Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "62d671cbdeea5c2d8c81fe30",
+      "slug": "67295653",
+      "name": "Iván Morante"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 828098
+  },
+  {
+    "_id": "6a75f472d3cfc406fc61720c",
+    "created": "2026-08-07T15:06:26.587Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d7",
+      "name": "Real Valladolid",
+      "slug": "valladolid"
+    },
+    "_player": {
+      "_id": "5f4e84afafb86f03c14f64d8",
+      "slug": "67278046",
+      "name": "Víctor Meseguer"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 395000,
+        "_id": "6a75f472d3cfc406fc61720d"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 370526,
+        "_id": "6a75f472d3cfc406fc61720e"
+      }
+    ],
+    "price": 1000000
+  },
+  {
+    "_id": "6a75f472bf3e5e06f4d32c40",
+    "created": "2026-08-07T15:06:26.585Z",
+    "_playerTeam": {
+      "_id": "51fbd412b53862dd3e00001d",
+      "name": "Burgos",
+      "slug": "burgos-cf"
+    },
+    "_player": {
+      "_id": "64993a6f68d3951e993f2ebb",
+      "slug": "2000056071",
+      "name": "Brais Martínez"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 300000,
+        "_id": "6a75f472bf3e5e06f4d32c41"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 192745,
+        "_id": "6a75f472bf3e5e06f4d32c42"
+      }
+    ],
+    "price": 350963
+  },
+  {
+    "_id": "6a75f4725b659806e7726227",
+    "created": "2026-08-07T15:06:26.584Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "5212448678fcf4d53000000e",
+      "name": "Enric Gallego",
+      "slug": "67136474"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1109638,
+        "_id": "6a75f4725b659806e7726229"
+      }
+    ],
+    "price": 5155000
+  },
+  {
+    "_id": "6a75f472f1483b070268ffcf",
+    "created": "2026-08-07T15:06:26.583Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "665cf0aabd5be20441bd1cca",
+      "slug": "2000215081",
+      "name": "Víctor Moreno"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 1100000,
+        "_id": "6a75f472f1483b070268ffd0"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 612451,
+        "_id": "6a75f472f1483b070268ffd1"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 354788,
+        "_id": "6a75f472f1483b070268ffd2"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 162164,
+        "_id": "6a75f472f1483b070268ffd3"
+      }
+    ],
+    "price": 2650000
+  },
+  {
+    "_id": "6a75f472fd6df106edcbc5c8",
+    "created": "2026-08-07T15:06:26.556Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "504f65804d8bec9a6700077f",
+      "name": "Álex Rubio",
+      "slug": "2000277002"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 765000,
+        "_id": "6a75f472fd6df106edcbc5c9"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 744144,
+        "_id": "6a75f472fd6df106edcbc5ca"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 560035,
+        "_id": "6a75f472fd6df106edcbc5cb"
+      }
+    ],
+    "price": 780888
+  },
+  {
+    "_id": "6a75f472639a4606dbd362a5",
+    "created": "2026-08-07T15:06:26.518Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef2fa4da74b49f56d3e8c",
+      "slug": "2000395283",
+      "name": "Anxo Rodríguez"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 635000,
+        "_id": "6a75f472639a4606dbd362a7"
+      },
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 580221,
+        "_id": "6a75f472639a4606dbd362a8"
+      }
+    ],
+    "price": 1000000
+  },
+  {
+    "_id": "6a75f4727e084006e15ff396",
+    "created": "2026-08-07T15:06:26.511Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "5c3d0a043e105803f1dcb5a5",
+      "slug": "67272882",
+      "name": "Roberto López"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 722222,
+        "_id": "6a75f4727e084006e15ff397"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 543000,
+        "_id": "6a75f4727e084006e15ff398"
+      }
+    ],
+    "price": 750000
+  },
+  {
+    "_id": "6a75f472bf3e5e06f4d32c3c",
+    "created": "2026-08-07T15:06:26.495Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "65f7126c17c8f74f39434408",
+      "slug": "2000052483",
+      "name": "Damián Rodríguez"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [],
+    "price": 405111
+  },
+  {
+    "_id": "6a75f472f1483b070268ffca",
+    "created": "2026-08-07T15:06:26.473Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "55d4ecd5e0006c4202c07d2b",
+      "slug": "43080624",
+      "name": "Rodrigo Ely"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 678944,
+        "_id": "6a75f472f1483b070268ffcb"
+      }
+    ],
+    "price": 890690
+  },
+  {
+    "_id": "6a75f472d3cfc406fc617206",
+    "created": "2026-08-07T15:06:26.445Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "64e53dbd7d34cf5165bd7346",
+      "slug": "67292825",
+      "name": "Aitor Fraga"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 596588,
+        "_id": "6a75f472d3cfc406fc617207"
+      }
+    ],
+    "price": 750000
+  },
+  {
+    "_id": "6a75f472fd6df106edcbc5c3",
+    "created": "2026-08-07T15:06:26.440Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "53a81f8f29ac524401000562",
+      "name": "Campaña",
+      "slug": "67089223"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 500000,
+        "_id": "6a75f472fd6df106edcbc5c4"
+      }
+    ],
+    "price": 510000
+  },
+  {
+    "_id": "6a75f4725b659806e7726223",
+    "created": "2026-08-07T15:06:26.409Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "596bc1afc6269ff074e8eecb",
+      "slug": "43195831",
+      "name": "Brignani"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1364083
+  },
+  {
+    "_id": "6a755d02639a4606dbd342c2",
+    "created": "2026-08-07T04:20:18.787Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6a4edf381e87c805994b7042",
+      "slug": "2000325875",
+      "name": "Bellari"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 190000,
+        "_id": "6a755d02639a4606dbd342c3"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 181553,
+        "_id": "6a755d02639a4606dbd342c4"
+      }
+    ],
+    "price": 290231
+  },
+  {
+    "_id": "6a755d02f1a7a706da625d61",
+    "created": "2026-08-07T04:20:18.522Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "521465b030da1051020000a9",
+      "name": "Lizoain",
+      "slug": "67127965"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 2688045
+  },
+  {
+    "_id": "6a755d02fd6df106edcba6fc",
+    "created": "2026-08-07T04:20:18.417Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "6a3e67a92ae0d649eac37510",
+      "slug": "13221035",
+      "name": "Liameed"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 988000,
+        "_id": "6a755d02fd6df106edcba6fd"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 921111,
+        "_id": "6a755d02fd6df106edcba6fe"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 871451,
+        "_id": "6a755d02fd6df106edcba6ff"
+      }
+    ],
+    "price": 1250000
+  },
+  {
+    "_id": "6a755d027e084006e15fd41e",
+    "created": "2026-08-07T04:20:18.410Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "5d135ab72cef430674ec23c1",
+      "slug": "67238450",
+      "name": "Sergio Ruiz"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 678000,
+        "_id": "6a755d027e084006e15fd41f"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 612451,
+        "_id": "6a755d027e084006e15fd420"
+      },
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 555106,
+        "_id": "6a755d027e084006e15fd421"
+      }
+    ],
+    "price": 855806
+  },
+  {
+    "_id": "6a755d02d3cfc406fc615289",
+    "created": "2026-08-07T04:20:18.400Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "5b6cc28068b47b496279f860",
+      "slug": "18057380",
+      "name": "Dendoncker"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [],
+    "price": 2065285
+  },
+  {
+    "_id": "6a755d02fd6df106edcba6f0",
+    "created": "2026-08-07T04:20:18.279Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "6a3c229317e98103fe0c8cce",
+      "slug": "2000331266",
+      "name": "Ghailan"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 460000
+  },
+  {
+    "_id": "6a755d027e084006e15fd410",
+    "created": "2026-08-07T04:20:18.242Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "576d17f91802057d6eb9f6bf",
+      "slug": "67179749",
+      "name": "Jair"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 520000,
+        "_id": "6a755d027e084006e15fd411"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 415000,
+        "_id": "6a755d027e084006e15fd412"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 389884,
+        "_id": "6a755d027e084006e15fd413"
+      }
+    ],
+    "price": 578888
+  },
+  {
+    "_id": "6a755d02639a4606dbd34297",
+    "created": "2026-08-07T04:20:18.236Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "5cf19e20fe811c5ea8228fb4",
+      "slug": "67249495",
+      "name": "Javi Martínez"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 380000,
+        "_id": "6a755d02639a4606dbd34298"
+      }
+    ],
+    "price": 412541
+  },
+  {
+    "_id": "6a755d017e084006e15fd3f9",
+    "created": "2026-08-07T04:20:17.979Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "62e39ff011f4242dbd725314",
+      "slug": "2000040347",
+      "name": "Pablo Torre"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 3254125,
+        "_id": "6a755d017e084006e15fd3fa"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 3000000,
+        "_id": "6a755d017e084006e15fd3fb"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 2801823,
+        "_id": "6a755d017e084006e15fd3fc"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 2789052,
+        "_id": "6a755d017e084006e15fd3fd"
+      }
+    ],
+    "price": 3546484
+  },
+  {
+    "_id": "6a755d01fd6df106edcba6d5",
+    "created": "2026-08-07T04:20:17.953Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "5e109b4661c0c203c0b87510",
+      "slug": "67258472",
+      "name": "Atienza"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 2690865,
+        "_id": "6a755d01fd6df106edcba6d6"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 2579883,
+        "_id": "6a755d01fd6df106edcba6d7"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 2500000,
+        "_id": "6a755d01fd6df106edcba6d8"
+      }
+    ],
+    "price": 3245424
+  },
+  {
+    "_id": "6a74a2f793851c06e89242e5",
+    "created": "2026-08-06T15:06:31.629Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "5f5404abe1873503b8a627dd",
+      "slug": "67260202",
+      "name": "Jon Morcillo"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1595838,
+        "_id": "6a74a2f793851c06e89242e6"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1580000,
+        "_id": "6a74a2f793851c06e89242e7"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1410099,
+        "_id": "6a74a2f793851c06e89242e8"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1111122,
+        "_id": "6a74a2f793851c06e89242e9"
+      }
+    ],
+    "price": 2000000
+  },
+  {
+    "_id": "6a74a2f7d8275906e2197f7d",
+    "created": "2026-08-06T15:06:31.624Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "68a24e8103d6620409fb631f",
+      "slug": "2000312515",
+      "name": "Eceizabarrena"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 385412,
+        "_id": "6a74a2f7d8275906e2197f80"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 381989,
+        "_id": "6a74a2f7d8275906e2197f81"
+      }
+    ],
+    "price": 490329
+  },
+  {
+    "_id": "6a74a2f7dd9bfe06db43ffe3",
+    "created": "2026-08-06T15:06:31.602Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "68b59fba05c30a03fb36d382",
+      "slug": "71113671",
+      "name": "Vanat"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 4124125,
+        "_id": "6a74a2f7dd9bfe06db43ffe5"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 3575837,
+        "_id": "6a74a2f7dd9bfe06db43ffe6"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 3056667,
+        "_id": "6a74a2f7dd9bfe06db43ffe7"
+      }
+    ],
+    "price": 4180069
+  },
+  {
+    "_id": "6a74a2f72c6a4c06dcfdc857",
+    "created": "2026-08-06T15:06:31.598Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "5b8140be25183016c11d0c93",
+      "slug": "67199304",
+      "name": "José León"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 987652,
+        "_id": "6a74a2f72c6a4c06dcfdc859"
+      }
+    ],
+    "price": 1726508
+  },
+  {
+    "_id": "6a74a2f753b26e06fd131c2a",
+    "created": "2026-08-06T15:06:31.576Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "64b1c241acde3f3cef8ec511",
+      "slug": "49044763",
+      "name": "Doué"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 288892,
+        "_id": "6a74a2f753b26e06fd131c2b"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 274124,
+        "_id": "6a74a2f753b26e06fd131c2c"
+      }
+    ],
+    "price": 403906
+  },
+  {
+    "_id": "6a74a2f7d474da06ee331fbf",
+    "created": "2026-08-06T15:06:31.551Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "69629a30a1414403d00a4ca4",
+      "slug": "unax-ayo-larranaga",
+      "name": "Unax Ayo"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 191009,
+        "_id": "6a74a2f7d474da06ee331fc0"
+      }
+    ],
+    "price": 289986
+  },
+  {
+    "_id": "6a74a2f7d8275906e2197f74",
+    "created": "2026-08-06T15:06:31.538Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "59510787479831b905f2d1b2",
+      "slug": "67196201",
+      "name": "Ezkieta"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1600390,
+        "_id": "6a74a2f7d8275906e2197f76"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1521452,
+        "_id": "6a74a2f7d8275906e2197f77"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1381836,
+        "_id": "6a74a2f7d8275906e2197f78"
+      }
+    ],
+    "price": 1800000
+  },
+  {
+    "_id": "6a74a2f793851c06e89242da",
+    "created": "2026-08-06T15:06:31.530Z",
+    "_playerTeam": {
+      "_id": "51ffb00e78b20d7f0700003f",
+      "name": "R. Oviedo",
+      "slug": "real-oviedo"
+    },
+    "_player": {
+      "_id": "521b5f939f2adc783700001e",
+      "name": "David Costas",
+      "slug": "67191439"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 2100000,
+        "_id": "6a74a2f793851c06e89242db"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1986329,
+        "_id": "6a74a2f793851c06e89242dc"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1598896,
+        "_id": "6a74a2f793851c06e89242dd"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 1566000,
+        "_id": "6a74a2f793851c06e89242de"
+      }
+    ],
+    "price": 3640755
+  },
+  {
+    "_id": "6a74a2f7dd9bfe06db43ffdd",
+    "created": "2026-08-06T15:06:31.513Z",
+    "_playerTeam": {
+      "_id": "51fd6d05f5299f896600004e",
+      "name": "Cádiz",
+      "slug": "cadiz-cf"
+    },
+    "_player": {
+      "_id": "6a4aa1d0c40ad549f036e759",
+      "slug": "2000100058",
+      "name": "Toibibou"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 378906,
+        "_id": "6a74a2f7dd9bfe06db43ffde"
+      }
+    ],
+    "price": 587816
+  },
+  {
+    "_id": "6a74a2f72547da07041ab4e0",
+    "created": "2026-08-06T15:06:31.509Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "55b66c6389aecf2022996b01",
+      "slug": "67083320",
+      "name": "Marc Mateu"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 440999
+  },
+  {
+    "_id": "6a74a2f753b26e06fd131c24",
+    "created": "2026-08-06T15:06:31.490Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "559161e7a1736b3a4284452a",
+      "slug": "67200926",
+      "name": "Córdoba"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1249276
+  },
+  {
+    "_id": "6a74a2f72547da07041ab4db",
+    "created": "2026-08-06T15:06:31.430Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "53fba1ebb4d71ee00e000278",
+      "name": "Agus Medina",
+      "slug": "67206502"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 912541
+  },
+  {
+    "_id": "6a74a2f7dd9bfe06db43ffd8",
+    "created": "2026-08-06T15:06:31.426Z",
+    "_playerTeam": {
+      "_id": "520347e4b8d07d930b00000f",
+      "name": "Girona",
+      "slug": "girona-cf"
+    },
+    "_player": {
+      "_id": "697be226df6332040670c6c1",
+      "slug": "2000447536",
+      "name": "Izan González"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 934968
+  },
+  {
+    "_id": "6a740b8493851c06e89222fb",
+    "created": "2026-08-06T04:20:20.079Z",
+    "_playerTeam": {
+      "_id": "62a83ae5390b79040d8e6db8",
+      "name": "Andorra",
+      "slug": "andorra"
+    },
+    "_player": {
+      "_id": "68b5ef0348ead604163e689f",
+      "slug": "2000241614",
+      "name": "Efe Akman"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 386000,
+        "_id": "6a740b8493851c06e89222fd"
+      }
+    ],
+    "price": 500811
+  },
+  {
+    "_id": "6a740b8453b26e06fd12fd60",
+    "created": "2026-08-06T04:20:20.075Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "51b8a1c2e401a15f2c000153",
+      "name": "David Rodríguez",
+      "slug": "67298488"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 846825,
+        "_id": "6a740b8453b26e06fd12fd61"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 800000,
+        "_id": "6a740b8453b26e06fd12fd62"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 580022,
+        "_id": "6a740b8453b26e06fd12fd63"
+      }
+    ],
+    "price": 850000
+  },
+  {
+    "_id": "6a740b84d8275906e2196282",
+    "created": "2026-08-06T04:20:20.066Z",
+    "_playerTeam": {
+      "_id": "51fbd40cb53862dd3e00001c",
+      "name": "Real Sociedad B",
+      "slug": "real-sociedad-b"
+    },
+    "_player": {
+      "_id": "6866a5417775a433449e9c9a",
+      "slug": "67294051",
+      "name": "Carbonell"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 211211,
+        "_id": "6a740b84d8275906e2196283"
+      }
+    ],
+    "price": 298000
+  },
+  {
+    "_id": "6a740b842547da07041a94ab",
+    "created": "2026-08-06T04:20:20.051Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "5210908da776cc826b000067",
+      "name": "Darder",
+      "slug": "67118372"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 5124512,
+        "_id": "6a740b842547da07041a94ad"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 5000000,
+        "_id": "6a740b842547da07041a94ae"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 4000001,
+        "_id": "6a740b842547da07041a94af"
+      }
+    ],
+    "price": 6400500
+  },
+  {
+    "_id": "6a740b84dd9bfe06db43e121",
+    "created": "2026-08-06T04:20:20.031Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "6a00fedfe126e303cfe91b78",
+      "slug": "2000511477",
+      "name": "Zinebi"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 100000
+  },
+  {
+    "_id": "6a740b832ffcce06f56e78b6",
+    "created": "2026-08-06T04:20:19.993Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "696b80ef8901a703e16d0535",
+      "slug": "45109176",
+      "name": "Miyashiro"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 2500000,
+        "_id": "6a740b832ffcce06f56e78b7"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 2158000,
+        "_id": "6a740b832ffcce06f56e78b8"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1806884,
+        "_id": "6a740b832ffcce06f56e78b9"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1352144,
+        "_id": "6a740b832ffcce06f56e78ba"
+      }
+    ],
+    "price": 3155000
+  },
+  {
+    "_id": "6a740b832c6a4c06dcfdaa11",
+    "created": "2026-08-06T04:20:19.993Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "5aad4e5734baaf140d8376d2",
+      "slug": "67258412",
+      "name": "Marqués"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [],
+    "price": 1600000
+  },
+  {
+    "_id": "6a740b832547da07041a94a5",
+    "created": "2026-08-06T04:20:19.953Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "6a3c2671b4406e03a4ddda51",
+      "slug": "2000328860",
+      "name": "Acimovic"
+    },
+    "_buyer": {
+      "_id": "6a7250442fe78b3cf217d4fb",
+      "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "bids": [],
+    "price": 110290
+  },
+  {
+    "_id": "6a740b83d8275906e219627b",
+    "created": "2026-08-06T04:20:19.951Z",
+    "_playerTeam": {
+      "_id": "520352acb8d07d930b000015",
+      "name": "Sabadell",
+      "slug": "ce-sabadell"
+    },
+    "_player": {
+      "_id": "5f356efc696edb03bcb06f19",
+      "slug": "67228804",
+      "name": "Diego Fuoli"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 512455,
+        "_id": "6a740b83d8275906e219627c"
+      }
+    ],
+    "price": 810880
+  },
+  {
+    "_id": "6a740b83d474da06ee32fffd",
+    "created": "2026-08-06T04:20:19.938Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d3",
+      "name": "Granada",
+      "slug": "granada"
+    },
+    "_player": {
+      "_id": "654cc5e0ac71be329d7af532",
+      "slug": "2000019418",
+      "name": "Pascual"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 385000,
+        "_id": "6a740b83d474da06ee32fffe"
+      }
+    ],
+    "price": 582863
+  },
+  {
+    "_id": "6a740b83dd9bfe06db43e11b",
+    "created": "2026-08-06T04:20:19.928Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "6a3e6e8baef25c49b6c70932",
+      "slug": "2000393290",
+      "name": "De Vuyst"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 110000,
+        "_id": "6a740b83dd9bfe06db43e11d"
+      }
+    ],
+    "price": 120000
+  },
+  {
+    "_id": "6a740b832ffcce06f56e78ab",
+    "created": "2026-08-06T04:20:19.888Z",
+    "_playerTeam": {
+      "_id": "51fd2c2e80aedc826600002b",
+      "name": "Albacete",
+      "slug": "albacete-balompie-sad"
+    },
+    "_player": {
+      "_id": "678d399e5533b004090bbd84",
+      "slug": "2000051881",
+      "name": "Lorenzo Aguado"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 386899,
+        "_id": "6a740b832ffcce06f56e78ad"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 350000,
+        "_id": "6a740b832ffcce06f56e78ae"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 321452,
+        "_id": "6a740b832ffcce06f56e78af"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 296500,
+        "_id": "6a740b832ffcce06f56e78b0"
+      }
+    ],
+    "price": 590888
+  },
+  {
+    "_id": "6a740b832c6a4c06dcfdaa0a",
+    "created": "2026-08-06T04:20:19.887Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "5726615111fbe60f2bff22db",
+      "slug": "67184883",
+      "name": "Anuar"
+    },
+    "_buyer": {
+      "_id": "6a72553fe4fb073ceb91619d",
+      "name": "Rubén Rosquete Abreu"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 655454,
+        "_id": "6a740b832c6a4c06dcfdaa0b"
+      }
+    ],
+    "price": 850221
+  },
+  {
+    "_id": "6a740b8393851c06e89222ef",
+    "created": "2026-08-06T04:20:19.862Z",
+    "_playerTeam": {
+      "_id": "52034fdbb8d07d930b000013",
+      "name": "Córdoba",
+      "slug": "cordoba-cf"
+    },
+    "_player": {
+      "_id": "68e27fc5bdd35803fccd8010",
+      "slug": "2000456357",
+      "name": "Timorán"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 100000
+  },
+  {
+    "_id": "6a740b8353b26e06fd12fd50",
+    "created": "2026-08-06T04:20:19.849Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "5b60063cc1287fe257409984",
+      "slug": "67248341",
+      "name": "Dani Martín"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1021880,
+        "_id": "6a740b8353b26e06fd12fd51"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 1000000,
+        "_id": "6a740b8353b26e06fd12fd52"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 800001,
+        "_id": "6a740b8353b26e06fd12fd53"
+      }
+    ],
+    "price": 2580000
+  },
+  {
+    "_id": "6a740b832547da07041a949f",
+    "created": "2026-08-06T04:20:19.848Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "5b7b3421bf484b6b99da2143",
+      "slug": "67233388",
+      "name": "Nolaskoain"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 1172888,
+        "_id": "6a740b832547da07041a94a1"
+      }
+    ],
+    "price": 1300000
+  },
+  {
+    "_id": "6a740b83d474da06ee32fff0",
+    "created": "2026-08-06T04:20:19.810Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "667c1c42b0b6f0416e148a31",
+      "slug": "24051727",
+      "name": "Horkas"
+    },
+    "_buyer": {
+      "_id": "6a7269643c7e1c3cdc731d80",
+      "name": "Tino Aleman Cardenes"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1516822,
+        "_id": "6a740b83d474da06ee32fff2"
+      },
+      {
+        "u": {
+          "_id": "6a72553fe4fb073ceb91619d",
+          "name": "Rubén Rosquete Abreu"
+        },
+        "bid": 1400600,
+        "_id": "6a740b83d474da06ee32fff3"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 1300111,
+        "_id": "6a740b83d474da06ee32fff4"
+      },
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 1200000,
+        "_id": "6a740b83d474da06ee32fff5"
+      }
+    ],
+    "price": 2000001
+  },
+  {
+    "_id": "6a740b832c6a4c06dcfdaa04",
+    "created": "2026-08-06T04:20:19.802Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef066e284b949d26e089a",
+      "slug": "2000048835",
+      "name": "Coke Carrillo"
+    },
+    "_buyer": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 293211
+  },
+  {
+    "_id": "6a740b832ffcce06f56e78a4",
+    "created": "2026-08-06T04:20:19.782Z",
+    "_playerTeam": {
+      "_id": "51ffbab40ac2ec8b07000025",
+      "name": "Celta Fortuna",
+      "slug": "rc-celta-de-vigo-b"
+    },
+    "_player": {
+      "_id": "6a3ef342c40ad549f036b568",
+      "slug": "2000124143",
+      "name": "Meixús"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 383880,
+        "_id": "6a740b832ffcce06f56e78a5"
+      }
+    ],
+    "price": 395000
+  },
+  {
+    "_id": "6a740b83d8275906e219626a",
+    "created": "2026-08-06T04:20:19.780Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "5c6843548953a6467168db95",
+      "slug": "67246382",
+      "name": "Álex Sola"
+    },
+    "_buyer": {
+      "_id": "6a7252e3e4fb073ceb915cfe",
+      "name": "Chilaquiles FC"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7269643c7e1c3cdc731d80",
+          "name": "Tino Aleman Cardenes"
+        },
+        "bid": 2100000,
+        "_id": "6a740b83d8275906e219626b"
+      },
+      {
+        "u": {
+          "_id": "6a71dd144b37c33cdda9b531",
+          "name": "Aarón Santana"
+        },
+        "bid": 1841801,
+        "_id": "6a740b83d8275906e219626c"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 1444333,
+        "_id": "6a740b83d8275906e219626d"
+      },
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1321542,
+        "_id": "6a740b83d8275906e219626e"
+      }
+    ],
+    "price": 2500000
+  },
+  {
+    "_id": "6a740b8393851c06e89222e7",
+    "created": "2026-08-06T04:20:19.773Z",
+    "_playerTeam": {
+      "_id": "51ffb6b7113981890700003a",
+      "name": "Leganés",
+      "slug": "cd-leganes"
+    },
+    "_player": {
+      "_id": "6117fbe82806395bcad48143",
+      "slug": "2000119436",
+      "name": "Naim García"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7252e3e4fb073ceb915cfe",
+          "name": "Chilaquiles FC"
+        },
+        "bid": 450000,
+        "_id": "6a740b8393851c06e89222e8"
+      },
+      {
+        "u": {
+          "_id": "6a71d8813c7e1c3cdc724971",
+          "name": "Carlos Romero"
+        },
+        "bid": 420000,
+        "_id": "6a740b8393851c06e89222e9"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 307514,
+        "_id": "6a740b8393851c06e89222ea"
+      }
+    ],
+    "price": 587814
+  },
+  {
+    "_id": "6a847516160dae06f83cd9ae",
+    "created": "2026-08-18T15:07:02.884Z",
+    "_playerTeam": {
+      "_id": "6861ab6f6a63fa33501ba5f0",
+      "name": "Ceuta",
+      "slug": "ceuta"
+    },
+    "_player": {
+      "_id": "686b8909b0daa3044ad36bb7",
+      "slug": "2000053933",
+      "name": "Marino Illescas"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 414144,
+        "_id": "6a847516160dae06f83cd9b0"
+      },
+      {
+        "u": {
+          "_id": "6a725a2e2fe78b3cf217eb9f",
+          "name": "Rayco Blanco Hernández"
+        },
+        "bid": 331689,
+        "_id": "6a847516160dae06f83cd9b1"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 331689,
+        "_id": "6a847516160dae06f83cd9b2"
+      }
+    ],
+    "price": 531806
+  },
+  {
+    "_id": "6a84751664608607217cd972",
+    "created": "2026-08-18T15:07:02.880Z",
+    "_playerTeam": {
+      "_id": "6498cbcea828481e7cd5bfdc",
+      "name": "Eldense",
+      "slug": "eldense"
+    },
+    "_player": {
+      "_id": "6757ff71d2717703ca746142",
+      "slug": "2000395140",
+      "name": "Cabanes"
+    },
+    "_buyer": {
+      "_id": "6a725a2e2fe78b3cf217eb9f",
+      "name": "Rayco Blanco Hernández"
+    },
+    "bids": [],
+    "price": 799000
+  },
+  {
+    "_id": "6a84751683231207128d196f",
+    "created": "2026-08-18T15:07:02.874Z",
+    "_playerTeam": {
+      "_id": "5203860b2e80d2950b000093",
+      "name": "Eibar",
+      "slug": "sd-eibar"
+    },
+    "_player": {
+      "_id": "5774e5ab27ae4bd9135ae2fa",
+      "slug": "67103536",
+      "name": "Bernat"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 383893
+  },
+  {
+    "_id": "6a847516856c9a0705ebe2e5",
+    "created": "2026-08-18T15:07:02.835Z",
+    "_playerTeam": {
+      "_id": "51c61663c7694f5f660000fc",
+      "name": "Almería",
+      "slug": "almeria"
+    },
+    "_player": {
+      "_id": "5ad667230c68c61d3fb26e7f",
+      "slug": "67277465",
+      "name": "Sergio Arribas"
+    },
+    "_buyer": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 4351172,
+        "_id": "6a847516856c9a0705ebe2e7"
+      }
+    ],
+    "price": 4351172
+  },
+  {
+    "_id": "6a8475161fefec070b233aed",
+    "created": "2026-08-18T15:07:02.614Z",
+    "_playerTeam": {
+      "_id": "52034d7678a057910b000011",
+      "name": "Sporting",
+      "slug": "sporting-de-gijon"
+    },
+    "_player": {
+      "_id": "5f837d617ce1534fd01ee7c0",
+      "slug": "67263885",
+      "name": "Guille Rosas"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 1671451,
+        "_id": "6a8475161fefec070b233aef"
+      },
+      {
+        "u": {
+          "_id": "6a7250442fe78b3cf217d4fb",
+          "name": "RafaTfe🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+        },
+        "bid": 1632444,
+        "_id": "6a8475161fefec070b233af0"
+      }
+    ],
+    "price": 1886870
+  },
+  {
+    "_id": "6a8475168cdcac071a73d58b",
+    "created": "2026-08-18T15:07:02.612Z",
+    "_playerTeam": {
+      "_id": "52034b60904c0ca30b000010",
+      "name": "Las Palmas",
+      "slug": "ud-las-palmas"
+    },
+    "_player": {
+      "_id": "504f65574d8bec9a670006ea",
+      "name": "Jesé",
+      "slug": "67117361"
+    },
+    "_buyer": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [
+      {
+        "u": {
+          "_id": "6a7250c0e4fb073ceb915cb4",
+          "name": "Jose Miguel García Valentín"
+        },
+        "bid": 2635119,
+        "_id": "6a8475168cdcac071a73d58c"
+      }
+    ],
+    "price": 2873890
+  },
+  {
+    "_id": "6a84969297ce7a2d820c9cc6",
+    "created": "2026-08-18T17:29:54.687Z",
+    "_playerTeam": {
+      "_id": "520384b42e80d2950b000092",
+      "name": "Tenerife",
+      "slug": "cd-tenerife"
+    },
+    "_player": {
+      "_id": "67a8cff7fdee6403d894ab59",
+      "slug": "2000271322",
+      "name": "César"
+    },
+    "_seller": {
+      "_id": "6a71dd144b37c33cdda9b531",
+      "name": "Aarón Santana"
+    },
+    "bids": [],
+    "price": 405278
+  },
+  {
+    "_id": "6a848ddb97ce7a2d820c9540",
+    "created": "2026-08-18T16:52:43.209Z",
+    "_playerTeam": {
+      "_id": "504e581e4d8bec9a670000d2",
+      "name": "Mallorca",
+      "slug": "mallorca"
+    },
+    "_player": {
+      "_id": "6865b21096e2d6335a297029",
+      "slug": "2000141741",
+      "name": "Cerdà"
+    },
+    "_seller": {
+      "_id": "6a71d8813c7e1c3cdc724971",
+      "name": "Carlos Romero"
+    },
+    "bids": [],
+    "price": 1108880
+  },
+  {
+    "_id": "6a848497cd455b2d599dca73",
+    "created": "2026-08-18T16:13:11.562Z",
+    "_playerTeam": {
+      "_id": "5f300d3a2523a20405358b23",
+      "name": "Castellón",
+      "slug": "castellon"
+    },
+    "_player": {
+      "_id": "6861a4b1aedcdd33075dd249",
+      "slug": "18109146",
+      "name": "Matthys"
+    },
+    "_seller": {
+      "_id": "6a7250c0e4fb073ceb915cb4",
+      "name": "Jose Miguel García Valentín"
+    },
+    "bids": [],
+    "price": 1214612
+  }
+]

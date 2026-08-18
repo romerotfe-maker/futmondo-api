@@ -1,0 +1,900 @@
+{
+  "aeromarc": {
+    "retained": [
+      {
+        "name": "Pablo Ibáñez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12085691
+      },
+      {
+        "name": "Marc Roca",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11301601
+      }
+    ],
+    "sold": [
+      {
+        "name": "Miguel Rodríguez",
+        "status": "Vendido (2026-08-03 por 2.843.817 €)",
+        "salePrice": 2843817
+      },
+      {
+        "name": "Bartra",
+        "status": "Vendido (2026-08-03 por 11.318.346 €)",
+        "salePrice": 11318346
+      },
+      {
+        "name": "Thiago Fernández",
+        "status": "Vendido (2026-08-03 por 2.792.730 €)",
+        "salePrice": 2792730
+      },
+      {
+        "name": "Alfon",
+        "status": "Vendido (2026-08-03 por 2.501.475 €)",
+        "salePrice": 2501475
+      },
+      {
+        "name": "Ter Stegen",
+        "status": "Vendido (2026-08-04 por 6.103.746 €)",
+        "salePrice": 6103746
+      },
+      {
+        "name": "Pablo Marín",
+        "status": "Vendido (2026-08-05 por 1.818.911 €)",
+        "salePrice": 1818911
+      },
+      {
+        "name": "Óskarsson",
+        "status": "Vendido (2026-08-06 por 2.345.513 €)",
+        "salePrice": 2345513
+      },
+      {
+        "name": "Juanlu",
+        "status": "Vendido (2026-08-07 por 1.718.017 €)",
+        "salePrice": 1718017
+      },
+      {
+        "name": "Raba",
+        "status": "Vendido (2026-08-09 por 2.693.072 €)",
+        "salePrice": 2693072
+      },
+      {
+        "name": "Juan Iglesias",
+        "status": "Vendido (2026-08-09 por 18.364.337 €)",
+        "salePrice": 18364337
+      },
+      {
+        "name": "Dituro",
+        "status": "Vendido (2026-08-15 por 8.209.134 €)",
+        "salePrice": 8209134,
+        "saleDate": "2026-08-15"
+      },
+      {
+        "name": "Dela",
+        "status": "Vendido (2026-08-15 por 9.546.685 €)",
+        "salePrice": 9546685,
+        "saleDate": "2026-08-15"
+      },
+      {
+        "name": "Salinas",
+        "status": "Vendido (2026-08-15 por 10.666.420 €)",
+        "salePrice": 10666420,
+        "saleDate": "2026-08-15"
+      }
+    ]
+  },
+  "Borja ✈️🎧⚽️⛳️": {
+    "retained": [
+      {
+        "name": "Omar",
+        "status": "Conservado (Retenido)",
+        "currentVal": 5858156
+      },
+      {
+        "name": "Swedberg",
+        "status": "Conservado (Retenido)",
+        "currentVal": 3759792
+      },
+      {
+        "name": "Gueye",
+        "status": "Conservado (Retenido)",
+        "currentVal": 2380407
+      }
+    ],
+    "sold": [
+      {
+        "name": "Yuri",
+        "status": "Vendido (2026-08-04 por 10.199.639 €)",
+        "salePrice": 10199639
+      },
+      {
+        "name": "Berenguer",
+        "status": "Vendido (2026-08-04 por 15.174.404 €)",
+        "salePrice": 15174404
+      },
+      {
+        "name": "Giménez",
+        "status": "Vendido (2026-08-06 por 1.940.864 €)",
+        "salePrice": 1940864
+      },
+      {
+        "name": "Luka Sucic",
+        "status": "Vendido (2026-08-06 por 5.292.496 €)",
+        "salePrice": 5292496
+      },
+      {
+        "name": "Pedro Díaz",
+        "status": "Vendido (2026-08-06 por 5.097.807 €)",
+        "salePrice": 5097807
+      },
+      {
+        "name": "Kervin Arriaga",
+        "status": "Vendido (2026-08-06 por 1.921.924 €)",
+        "salePrice": 1921924
+      },
+      {
+        "name": "Eddahchouri",
+        "status": "Vendido (2026-08-07 por 2.604.794 €)",
+        "salePrice": 2604794
+      },
+      {
+        "name": "Iturbe",
+        "status": "Vendido (2026-08-08 por 1.051.065 €)",
+        "salePrice": 1051065
+      },
+      {
+        "name": "Juan Cruz",
+        "status": "Vendido (2026-08-09 por 2.441.791 €)",
+        "salePrice": 2441791
+      },
+      {
+        "name": "Sergio Herrera",
+        "status": "Vendido (2026-08-14 por 17.106.908 €)",
+        "salePrice": 17106908
+      },
+      {
+        "name": "Boyomo",
+        "status": "Vendido (2026-08-15 por 12.546.008 €)",
+        "salePrice": 12546008,
+        "saleDate": "2026-08-15"
+      },
+      {
+        "name": "Hancko",
+        "status": "Vendido (2026-08-15 por 19.698.829 €)",
+        "salePrice": 19698829,
+        "saleDate": "2026-08-15"
+      }
+    ]
+  },
+  "ivanabyan83": {
+    "retained": [
+      {
+        "name": "Dimitrievski",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11470488
+      },
+      {
+        "name": "Chust",
+        "status": "Conservado (Retenido)",
+        "currentVal": 3850987
+      },
+      {
+        "name": "Riquelme",
+        "status": "Conservado (Retenido)",
+        "currentVal": 2502412
+      }
+    ],
+    "sold": [
+      {
+        "name": "Juanmi",
+        "status": "Vendido (2026-08-03 por 1.363.524 €)",
+        "salePrice": 1363524
+      },
+      {
+        "name": "Mercado",
+        "status": "Vendido (2026-08-03 por 2.891.825 €)",
+        "salePrice": 2891825
+      },
+      {
+        "name": "Xavi Grande",
+        "status": "Vendido (2026-08-03 por 1.001.839 €)",
+        "salePrice": 1001839
+      },
+      {
+        "name": "El-Abdellaoui",
+        "status": "Vendido (2026-08-03 por 1.032.445 €)",
+        "salePrice": 1032445
+      },
+      {
+        "name": "Mikel Rodríguez",
+        "status": "Vendido (2026-08-03 por 1.054.198 €)",
+        "salePrice": 1054198
+      },
+      {
+        "name": "Adrián R.",
+        "status": "Vendido (2026-08-03 por 1.065.929 €)",
+        "salePrice": 1065929
+      },
+      {
+        "name": "Marcos Fernández",
+        "status": "Vendido (2026-08-04 por 1.040.894 €)",
+        "salePrice": 1040894
+      },
+      {
+        "name": "Mouriño",
+        "status": "Vendido (2026-08-05 por 20.660.933 €)",
+        "salePrice": 20660933
+      },
+      {
+        "name": "Gavi",
+        "status": "Vendido (2026-08-07 por 12.088.379 €)",
+        "salePrice": 12088379
+      },
+      {
+        "name": "Trent",
+        "status": "Vendido (2026-08-08 por 16.131.416 €)",
+        "salePrice": 16131416
+      },
+      {
+        "name": "Marcos Alonso",
+        "status": "Vendido (2026-08-09 por 16.866.181 €)",
+        "salePrice": 16866181
+      },
+      {
+        "name": "Izan Merino",
+        "status": "Vendido (2026-08-14 por 10.498.129 €)",
+        "salePrice": 10498129
+      }
+    ]
+  },
+  "gracioguemes": {
+    "retained": [
+      {
+        "name": "Puga",
+        "status": "Conservado (Retenido)",
+        "currentVal": 7406872
+      },
+      {
+        "name": "Diaby",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Gerard Martín",
+        "status": "Conservado (Retenido)",
+        "currentVal": 19155135
+      },
+      {
+        "name": "Gabriel Suazo",
+        "status": "Conservado (Retenido)",
+        "currentVal": 5046378
+      }
+    ],
+    "sold": [
+      {
+        "name": "Toni Fernández",
+        "status": "Vendido (2026-08-03 por 1.031.773 €)",
+        "salePrice": 1031773
+      },
+      {
+        "name": "Raúl de Tomás",
+        "status": "Vendido (2026-08-03 por 1.006.327 €)",
+        "salePrice": 1006327
+      },
+      {
+        "name": "Álex Padilla",
+        "status": "Vendido (2026-08-03 por 1.056.492 €)",
+        "salePrice": 1056492
+      },
+      {
+        "name": "Aitor Ruibal",
+        "status": "Vendido (2026-08-04 por 8.195.185 €)",
+        "salePrice": 8195185
+      },
+      {
+        "name": "Palacios",
+        "status": "Vendido (2026-08-05 por 1.020.107 €)",
+        "salePrice": 1020107
+      },
+      {
+        "name": "Peio Canales",
+        "status": "Vendido (2026-08-05 por 2.116.055 €)",
+        "salePrice": 2116055
+      },
+      {
+        "name": "Quagliata",
+        "status": "Vendido (2026-08-14 por 12.565.145 €)",
+        "salePrice": 12565145
+      },
+      {
+        "name": "Dubasin",
+        "status": "Vendido (2026-08-14 por 5.118.934 €)",
+        "salePrice": 5118934
+      },
+      {
+        "name": "Moncayola",
+        "status": "Vendido (2026-08-15 por 15.493.407 €)",
+        "salePrice": 15493407
+      },
+      {
+        "name": "Luiz Junior",
+        "status": "Vendido (2026-08-15 por 11.404.726 €)",
+        "salePrice": 11404726
+      },
+      {
+        "name": "Iván Romero",
+        "status": "Vendido (2026-08-15 por 14.698.638 €)",
+        "salePrice": 14698638,
+        "saleDate": "2026-08-15"
+      }
+    ]
+  },
+  "Mario Toledano": {
+    "retained": [
+      {
+        "name": "Alfonso Herrero",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11206751
+      },
+      {
+        "name": "Djené",
+        "status": "Conservado (Retenido)",
+        "currentVal": 4901858
+      },
+      {
+        "name": "Eyong",
+        "status": "Conservado (Retenido)",
+        "currentVal": 15421542
+      },
+      {
+        "name": "Agoumé",
+        "status": "Conservado (Retenido)",
+        "currentVal": 5505746
+      },
+      {
+        "name": "Ciss",
+        "status": "Conservado (Retenido)",
+        "currentVal": 10560445
+      }
+    ],
+    "sold": [
+      {
+        "name": "Gonzalo",
+        "status": "Vendido (2026-08-03 por 5.418.870 €)",
+        "salePrice": 5418870
+      },
+      {
+        "name": "Nteka",
+        "status": "Vendido (2026-08-03 por 1.034.013 €)",
+        "salePrice": 1034013
+      },
+      {
+        "name": "Le Normand",
+        "status": "Vendido (2026-08-03 por 9.193.613 €)",
+        "salePrice": 9193613
+      },
+      {
+        "name": "Huijsen",
+        "status": "Vendido (2026-08-07 por 17.960.361 €)",
+        "salePrice": 17960361
+      },
+      {
+        "name": "Owono",
+        "status": "Vendido (2026-08-07 por 1.011.645 €)",
+        "salePrice": 1011645
+      },
+      {
+        "name": "Iranzo",
+        "status": "Vendido (2026-08-08 por 1.048.598 €)",
+        "salePrice": 1048598
+      },
+      {
+        "name": "Cabrera",
+        "status": "Vendido (2026-08-09 por 20.466.616 €)",
+        "salePrice": 20466616
+      },
+      {
+        "name": "Rodri Mendoza",
+        "status": "Vendido (2026-08-12 por 1.939.253 €)",
+        "salePrice": 1939253
+      },
+      {
+        "name": "Amatucci",
+        "status": "Vendido (2026-08-13 por 5.654.464 €)",
+        "salePrice": 5654464
+      },
+      {
+        "name": "Tai Abed",
+        "status": "Vendido (2026-08-14 por 1.057.196 €)",
+        "salePrice": 1057196
+      }
+    ]
+  },
+  "Carlos Romero": {
+    "retained": [
+      {
+        "name": "Davinchi",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1230299
+      },
+      {
+        "name": "Zaid Romero",
+        "status": "Conservado (Retenido)",
+        "currentVal": 15671231
+      },
+      {
+        "name": "Pablo Durán",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Campos",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Ángel Pérez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 13709202
+      },
+      {
+        "name": "Alti",
+        "status": "Conservado (Retenido)",
+        "currentVal": 5783696
+      },
+      {
+        "name": "Jutglà",
+        "status": "Conservado (Retenido)",
+        "currentVal": 17221887
+      }
+    ],
+    "sold": [
+      {
+        "name": "Rubén García",
+        "status": "Vendido (2026-08-03 por 13.224.521 €)",
+        "salePrice": 13224521
+      },
+      {
+        "name": "Ruggeri",
+        "status": "Vendido (2026-08-03 por 8.081.144 €)",
+        "salePrice": 8081144
+      },
+      {
+        "name": "Karrikaburu",
+        "status": "Vendido (2026-08-04 por 1.030.324 €)",
+        "salePrice": 1030324
+      },
+      {
+        "name": "Óscar Valentín",
+        "status": "Vendido (2026-08-04 por 1.896.222 €)",
+        "salePrice": 1896222
+      },
+      {
+        "name": "Obed Vargas",
+        "status": "Vendido (2026-08-05 por 2.951.290 €)",
+        "salePrice": 2951290
+      },
+      {
+        "name": "Leo Román",
+        "status": "Vendido (2026-08-11 por 18.511.470 €)",
+        "salePrice": 18511470
+      },
+      {
+        "name": "Ilaix Moriba",
+        "status": "Vendido (2026-08-13 por 15.514.636 €)",
+        "salePrice": 15514636
+      },
+      {
+        "name": "Iker Benito",
+        "status": "Vendido (2026-08-15 por 1.030.364 €)",
+        "salePrice": 1030364,
+        "saleDate": "2026-08-15"
+      }
+    ]
+  },
+  "Juan Ramon": {
+    "retained": [
+      {
+        "name": "J. Musso",
+        "status": "Conservado (Retenido)",
+        "currentVal": 2350497
+      },
+      {
+        "name": "Gayá",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12478878
+      },
+      {
+        "name": "Selton",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Pepelu",
+        "status": "Conservado (Retenido)",
+        "currentVal": 4892114
+      },
+      {
+        "name": "Canales",
+        "status": "Conservado (Retenido)",
+        "currentVal": 21465276
+      },
+      {
+        "name": "Eto'o",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Boselli",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1029429
+      },
+      {
+        "name": "J. Cardoso",
+        "status": "Conservado (Retenido)",
+        "currentVal": 3769174
+      },
+      {
+        "name": "Ionuț Radu",
+        "status": "Conservado (Retenido)",
+        "currentVal": 17333209
+      },
+      {
+        "name": "Kike Salas",
+        "status": "Conservado (Retenido)",
+        "currentVal": 16006167
+      },
+      {
+        "name": "Joaquín Muñoz",
+        "status": "Conservado (Retenido)",
+        "currentVal": 7221141
+      },
+      {
+        "name": "Javi Galán",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12126535
+      },
+      {
+        "name": "Arana",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Calero",
+        "status": "Conservado (Retenido)",
+        "currentVal": 4634103
+      },
+      {
+        "name": "Brugué",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      }
+    ],
+    "sold": []
+  },
+  "Arturo Muradás": {
+    "retained": [
+      {
+        "name": "Zubeldia",
+        "status": "Conservado (Retenido)",
+        "currentVal": 8953323
+      },
+      {
+        "name": "Remiro",
+        "status": "Conservado (Retenido)",
+        "currentVal": 18045734
+      }
+    ],
+    "sold": [
+      {
+        "name": "Diego López",
+        "status": "Vendido (2026-08-03 por 10.823.481 €)",
+        "salePrice": 10823481
+      },
+      {
+        "name": "Ugrinic",
+        "status": "Vendido (2026-08-03 por 2.284.637 €)",
+        "salePrice": 2284637
+      },
+      {
+        "name": "Gonzalo Petit",
+        "status": "Vendido (2026-08-03 por 1.005.056 €)",
+        "salePrice": 1005056
+      },
+      {
+        "name": "Riki",
+        "status": "Vendido (2026-08-03 por 1.232.983 €)",
+        "salePrice": 1232983
+      },
+      {
+        "name": "Ilias Akhomach",
+        "status": "Vendido (2026-08-03 por 3.511.921 €)",
+        "salePrice": 3511921
+      },
+      {
+        "name": "Bernal",
+        "status": "Vendido (2026-08-03 por 4.674.314 €)",
+        "salePrice": 4674314
+      },
+      {
+        "name": "Lunin",
+        "status": "Vendido (2026-08-04 por 3.175.266 €)",
+        "salePrice": 3175266
+      },
+      {
+        "name": "Mendy",
+        "status": "Vendido (2026-08-04 por 5.201.020 €)",
+        "salePrice": 5201020
+      },
+      {
+        "name": "Elgezabal",
+        "status": "Vendido (2026-08-04 por 1.376.985 €)",
+        "salePrice": 1376985
+      },
+      {
+        "name": "Mella",
+        "status": "Vendido (2026-08-05 por 2.920.745 €)",
+        "salePrice": 2920745
+      },
+      {
+        "name": "Hartman",
+        "status": "Vendido (2026-08-07 por 12.882.611 €)",
+        "salePrice": 12882611
+      },
+      {
+        "name": "Tenaglia",
+        "status": "Vendido (2026-08-12 por 20.388.454 €)",
+        "salePrice": 20388454
+      },
+      {
+        "name": "Luismi Cruz",
+        "status": "Vendido (2026-08-14 por 13.154.767 €)",
+        "salePrice": 13154767
+      }
+    ]
+  },
+  "Capitan Maple": {
+    "retained": [
+      {
+        "name": "Diego Llorente",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11600118
+      },
+      {
+        "name": "Foyth",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12239843
+      },
+      {
+        "name": "Alemão",
+        "status": "Conservado (Retenido)",
+        "currentVal": 3038475
+      },
+      {
+        "name": "Urko González",
+        "status": "Conservado (Retenido)",
+        "currentVal": 14447962
+      },
+      {
+        "name": "Noubi",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11209288
+      },
+      {
+        "name": "Raúl Moro",
+        "status": "Conservado (Retenido)",
+        "currentVal": 16408079
+      },
+      {
+        "name": "Pablo Ramón",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Vlachodimos",
+        "status": "Conservado (Retenido)",
+        "currentVal": 10552718
+      },
+      {
+        "name": "Javi Hernández",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Terrats",
+        "status": "Conservado (Retenido)",
+        "currentVal": 11035396
+      }
+    ],
+    "sold": [
+      {
+        "name": "Thiago Pitarch",
+        "status": "Vendido (2026-08-11 por 2.423.540 €)",
+        "salePrice": 2423540
+      },
+      {
+        "name": "Musuayi",
+        "status": "Vendido (2026-08-11 por 1.061.390 €)",
+        "salePrice": 1061390
+      },
+      {
+        "name": "Eneko Jáuregi",
+        "status": "Vendido (2026-08-11 por 1.014.737 €)",
+        "salePrice": 1014737
+      },
+      {
+        "name": "Unai Marrero",
+        "status": "Vendido (2026-08-11 por 1.002.421 €)",
+        "salePrice": 1002421
+      },
+      {
+        "name": "Rosier",
+        "status": "Vendido (2026-08-14 por 10.753.588 €)",
+        "salePrice": 10753588
+      }
+    ]
+  },
+  "Rivers FC": {
+    "retained": [
+      {
+        "name": "Sadiq Umar",
+        "status": "Conservado (Retenido)",
+        "currentVal": 4937590
+      },
+      {
+        "name": "Koke",
+        "status": "Conservado (Retenido)",
+        "currentVal": 7516009
+      },
+      {
+        "name": "Facundo González",
+        "status": "Conservado (Retenido)",
+        "currentVal": 9299319
+      },
+      {
+        "name": "Oso",
+        "status": "Conservado (Retenido)",
+        "currentVal": 6956372
+      },
+      {
+        "name": "Hugo Álvarez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 3850446
+      },
+      {
+        "name": "Nsongo",
+        "status": "Conservado (Retenido)",
+        "currentVal": 5330025
+      },
+      {
+        "name": "Sato",
+        "status": "Conservado (Retenido)",
+        "currentVal": 6207509
+      },
+      {
+        "name": "Renato Veiga",
+        "status": "Conservado (Retenido)",
+        "currentVal": 15760862
+      },
+      {
+        "name": "Valles",
+        "status": "Conservado (Retenido)",
+        "currentVal": 13947528
+      },
+      {
+        "name": "Carlos López",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Buchanan",
+        "status": "Conservado (Retenido)",
+        "currentVal": 8837397
+      },
+      {
+        "name": "Fran Pérez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Asencio",
+        "status": "Conservado (Retenido)",
+        "currentVal": 10091143
+      }
+    ],
+    "sold": [
+      {
+        "name": "Roony",
+        "status": "Vendido (2026-08-09 por 1.193.688 €)",
+        "salePrice": 1193688
+      },
+      {
+        "name": "Vertrouwd",
+        "status": "Vendido (2026-08-09 por 1.017.326 €)",
+        "salePrice": 1017326
+      }
+    ]
+  },
+  "jeromuradas": {
+    "retained": [
+      {
+        "name": "Balde",
+        "status": "Conservado (Retenido)",
+        "currentVal": 15041406
+      },
+      {
+        "name": "Roberto Fernández",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12218265
+      },
+      {
+        "name": "Brahim Díaz",
+        "status": "Conservado (Retenido)",
+        "currentVal": 14606806
+      },
+      {
+        "name": "Denis Suárez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1216337
+      },
+      {
+        "name": "Ángel Recio",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Sivera",
+        "status": "Conservado (Retenido)",
+        "currentVal": 18060727
+      }
+    ],
+    "sold": [
+      {
+        "name": "Mendy",
+        "status": "Vendido (2026-08-09 por 5.536.221 €)",
+        "salePrice": 5536221
+      },
+      {
+        "name": "Moscardo",
+        "status": "Vendido (2026-08-10 por 4.933.946 €)",
+        "salePrice": 4933946
+      },
+      {
+        "name": "Luiz Felipe",
+        "status": "Vendido (2026-08-10 por 1.018.988 €)",
+        "salePrice": 1018988
+      },
+      {
+        "name": "Carlos Dotor",
+        "status": "Vendido (2026-08-11 por 1.443.963 €)",
+        "salePrice": 1443963
+      },
+      {
+        "name": "Adrián R.",
+        "status": "Vendido (2026-08-11 por 1.065.302 €)",
+        "salePrice": 1065302
+      },
+      {
+        "name": "Rodrygo",
+        "status": "Vendido (2026-08-11 por 16.532.602 €)",
+        "salePrice": 16532602
+      },
+      {
+        "name": "Gonzalo Petit",
+        "status": "Vendido (2026-08-13 por 1.069.833 €)",
+        "salePrice": 1069833
+      },
+      {
+        "name": "Marc Casadó",
+        "status": "Vendido (2026-08-14 por 1.176.613 €)",
+        "salePrice": 1176613
+      },
+      {
+        "name": "Marcão",
+        "status": "Vendido (2026-08-15 por 1.055.118 €)",
+        "salePrice": 1055118,
+        "saleDate": "2026-08-15"
+      }
+    ]
+  }
+}

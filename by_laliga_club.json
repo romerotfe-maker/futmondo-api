@@ -1,0 +1,778 @@
+{
+  "CA Osasuna": [
+    {
+      "name": "Pablo Ibáñez",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Boyomo",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Sergio Herrera",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Moncayola",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Iker Benito",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Rubén García",
+      "manager": "Carlos Romero"
+    }
+  ],
+  "Alavés": [
+    {
+      "name": "Dela",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Puga",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Owono",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Tenaglia",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Sivera",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Celta de Vigo": [
+    {
+      "name": "Dituro",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Miguel Rodríguez",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Alfon",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Carreira",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Omar",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Swedberg",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Marcos Alonso",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Pablo Durán",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Jutglà",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Ilaix Moriba",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Hugo Álvarez",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Sato",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Real Betis": [
+    {
+      "name": "Marc Roca",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Bartra",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Juanmi",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Marcos Fernández",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Aitor Ruibal",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Davinchi",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Selton",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "J. Cardoso",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Diego Llorente",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "RCD Espanyol": [
+    {
+      "name": "Salinas",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Cabrera",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Zaid Romero",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Calero",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Roberto Fernández",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Villarreal CF": [
+    {
+      "name": "Thiago Fernández",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Gueye",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Luiz Junior",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Alti",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Ilias Akhomach",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Foyth",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Terrats",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Thiago Pitarch",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Nsongo",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Buchanan",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Denis Suárez",
+      "manager": "jeromuradas"
+    }
+  ],
+  "FC Barcelona": [
+    {
+      "name": "Ter Stegen",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Gavi",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Gerard Martín",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Toni Fernández",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Bernal",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Balde",
+      "manager": "jeromuradas"
+    },
+    {
+      "name": "Marc Casadó",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Real Sociedad": [
+    {
+      "name": "Pablo Marín",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Óskarsson",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Luka Sucic",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Mikel Rodríguez",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Zubeldia",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Remiro",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Urko González",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Unai Marrero",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Sevilla FC": [
+    {
+      "name": "Juanlu",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Agoumé",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Kike Salas",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Sadiq Umar",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Oso",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Marcão",
+      "manager": "jeromuradas"
+    }
+  ],
+  "CD Leganés": [
+    {
+      "name": "Raba",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Juan Cruz",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Javi Hernández",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Rosier",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Getafe CF": [
+    {
+      "name": "Juan Iglesias",
+      "manager": "aeromarc"
+    },
+    {
+      "name": "Djené",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "Atlético de Madrid": [
+    {
+      "name": "Hancko",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Giménez",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Riquelme",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Le Normand",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "J. Musso",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Javi Galán",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Koke",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Athletic Club": [
+    {
+      "name": "Yuri",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Berenguer",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Álex Padilla",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Peio Canales",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Canales",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Rayo Vallecano": [
+    {
+      "name": "Pedro Díaz",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Raúl de Tomás",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Ciss",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Nteka",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Óscar Valentín",
+      "manager": "Carlos Romero"
+    }
+  ],
+  "Partizán (Internacional)": [
+    {
+      "name": "Kervin Arriaga",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    }
+  ],
+  "SD Eibar (2ª)": [
+    {
+      "name": "Eddahchouri",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    }
+  ],
+  "Cantera / Inferiores": [
+    {
+      "name": "Iturbe",
+      "manager": "Borja ✈️🎧⚽️⛳️"
+    },
+    {
+      "name": "Adrián R.",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Campos",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Adrián R.",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Valencia CF": [
+    {
+      "name": "Dimitrievski",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Iranzo",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Gayá",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Pepelu",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Diego López",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Fran Pérez",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Cádiz CF (2ª)": [
+    {
+      "name": "Chust",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Eyong",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "Elche CF (2ª)": [
+    {
+      "name": "Mercado",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Diaby",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Palacios",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Rodri Mendoza",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "Levante UD (2ª)": [
+    {
+      "name": "Xavi Grande",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Iván Romero",
+      "manager": "gracioguemes"
+    },
+    {
+      "name": "Brugué",
+      "manager": "Juan Ramon"
+    },
+    {
+      "name": "Elgezabal",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Musuayi",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Feyenoord (Internacional)": [
+    {
+      "name": "El-Abdellaoui",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Hartman",
+      "manager": "Arturo Muradás"
+    }
+  ],
+  "Girona FC": [
+    {
+      "name": "Mouriño",
+      "manager": "ivanabyan83"
+    }
+  ],
+  "Real Madrid": [
+    {
+      "name": "Trent",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Gonzalo",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Gonzalo Petit",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Lunin",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Mendy",
+      "manager": "Arturo Muradás"
+    },
+    {
+      "name": "Asencio",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Brahim Díaz",
+      "manager": "jeromuradas"
+    },
+    {
+      "name": "Mendy",
+      "manager": "jeromuradas"
+    },
+    {
+      "name": "Rodrygo",
+      "manager": "jeromuradas"
+    },
+    {
+      "name": "Gonzalo Petit",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Málaga CF (2ª)": [
+    {
+      "name": "Izan Merino",
+      "manager": "ivanabyan83"
+    },
+    {
+      "name": "Alfonso Herrero",
+      "manager": "Mario Toledano"
+    },
+    {
+      "name": "Carlos López",
+      "manager": "Rivers FC"
+    },
+    {
+      "name": "Ángel Recio",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Toulouse (Internacional)": [
+    {
+      "name": "Gabriel Suazo",
+      "manager": "gracioguemes"
+    }
+  ],
+  "PAOK (Internacional)": [
+    {
+      "name": "Quagliata",
+      "manager": "gracioguemes"
+    }
+  ],
+  "Sporting de Gijón (2ª)": [
+    {
+      "name": "Dubasin",
+      "manager": "gracioguemes"
+    }
+  ],
+  "Bournemouth (Internacional)": [
+    {
+      "name": "Huijsen",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "Salernitana (Internacional)": [
+    {
+      "name": "Amatucci",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "PSV (Internacional)": [
+    {
+      "name": "Tai Abed",
+      "manager": "Mario Toledano"
+    }
+  ],
+  "SD Huesca (2ª)": [
+    {
+      "name": "Ángel Pérez",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Joaquín Muñoz",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Atalanta (Internacional)": [
+    {
+      "name": "Ruggeri",
+      "manager": "Carlos Romero"
+    }
+  ],
+  "Racing Santander (2ª)": [
+    {
+      "name": "Karrikaburu",
+      "manager": "Carlos Romero"
+    },
+    {
+      "name": "Arana",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Seattle Sounders (Internacional)": [
+    {
+      "name": "Obed Vargas",
+      "manager": "Carlos Romero"
+    }
+  ],
+  "RCD Mallorca": [
+    {
+      "name": "Leo Román",
+      "manager": "Carlos Romero"
+    }
+  ],
+  "Cantera (Categorías Inferiores)": [
+    {
+      "name": "Eto'o",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Estudiantes (Internacional)": [
+    {
+      "name": "Boselli",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Inter / Bournemouth (Internacional)": [
+    {
+      "name": "Ionuț Radu",
+      "manager": "Juan Ramon"
+    }
+  ],
+  "Young Boys (Internacional)": [
+    {
+      "name": "Ugrinic",
+      "manager": "Arturo Muradás"
+    }
+  ],
+  "Albacete (2ª)": [
+    {
+      "name": "Riki",
+      "manager": "Arturo Muradás"
+    }
+  ],
+  "Deportivo de La Coruña (2ª)": [
+    {
+      "name": "Mella",
+      "manager": "Arturo Muradás"
+    }
+  ],
+  "CD Tenerife (2ª)": [
+    {
+      "name": "Luismi Cruz",
+      "manager": "Arturo Muradás"
+    }
+  ],
+  "Real Oviedo (2ª)": [
+    {
+      "name": "Alemão",
+      "manager": "Capitan Maple"
+    },
+    {
+      "name": "Carlos Dotor",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Standard Liège (Internacional)": [
+    {
+      "name": "Noubi",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Real Valladolid": [
+    {
+      "name": "Raúl Moro",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "CD Mirandés (2ª)": [
+    {
+      "name": "Pablo Ramón",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Newcastle (Internacional)": [
+    {
+      "name": "Vlachodimos",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Racing Ferrol (2ª)": [
+    {
+      "name": "Eneko Jáuregi",
+      "manager": "Capitan Maple"
+    }
+  ],
+  "Feyenoord / Juve (Internacional)": [
+    {
+      "name": "Facundo González",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Chelsea FC (Internacional)": [
+    {
+      "name": "Renato Veiga",
+      "manager": "Rivers FC"
+    }
+  ],
+  "UD Las Palmas": [
+    {
+      "name": "Valles",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Copenhagen (Internacional)": [
+    {
+      "name": "Roony",
+      "manager": "Rivers FC"
+    }
+  ],
+  "CD Castellón (2ª)": [
+    {
+      "name": "Vertrouwd",
+      "manager": "Rivers FC"
+    }
+  ],
+  "Reims / PSG (Internacional)": [
+    {
+      "name": "Moscardo",
+      "manager": "jeromuradas"
+    }
+  ],
+  "Al-Ittihad (Internacional)": [
+    {
+      "name": "Luiz Felipe",
+      "manager": "jeromuradas"
+    }
+  ]
+}
