@@ -1,3 +1,4 @@
+const fs = require('fs');
 const path = require('path');
 require('dotenv').config({ path: path.join(__dirname, '.env') });
 const express = require('express');
@@ -8,7 +9,94 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const exactStats = require('./exactStats');
+// Inlined exactStats data (Zero local module dependency)
+const exactStatsObj = {
+  "aeromarc": { "exactInitialSquadDay1": 94383784, "exactStartingCash": 205616216, "totalBuys": 488865902, "totalSales": 328687010, "tradingProfit": 5522503, "exactCalculatedCash": 45437324, "squadVal": 296995305, "netWorth": 346802310, "playersCount": 16 },
+  "Borja ✈️🎧⚽️⛳️": { "exactInitialSquadDay1": 92655283, "exactStartingCash": 207344717, "totalBuys": 711504291, "totalSales": 598508458, "tradingProfit": 13062629, "exactCalculatedCash": 94348884, "squadVal": 286535241, "netWorth": 341739788, "playersCount": 13 },
+  "ivanabyan83": { "exactInitialSquadDay1": 100236262, "exactStartingCash": 199763738, "totalBuys": 560989999, "totalSales": 356618038, "tradingProfit": -21212653, "exactCalculatedCash": -4608223, "squadVal": 263525346, "netWorth": 264235185, "playersCount": 12 },
+  "gracioguemes": { "exactInitialSquadDay1": 98667637, "exactStartingCash": 201332363, "totalBuys": 411689993, "totalSales": 212236161, "tradingProfit": -6900627, "exactCalculatedCash": 1878531, "squadVal": 274575633, "netWorth": 267268371, "playersCount": 14 },
+  "Mario Toledano": { "exactInitialSquadDay1": 99137681, "exactStartingCash": 200862319, "totalBuys": 265482824, "totalSales": 64784629, "tradingProfit": 0, "exactCalculatedCash": 164124, "squadVal": 297153386, "netWorth": 300337605, "playersCount": 15 },
+  "Carlos Romero": { "exactInitialSquadDay1": 101312683, "exactStartingCash": 198687317, "totalBuys": 341744131, "totalSales": 170967438, "tradingProfit": 1746916, "exactCalculatedCash": 27910624, "squadVal": 254738738, "netWorth": 283489104, "playersCount": 19 },
+  "Juan Ramon": { "exactInitialSquadDay1": 97387139, "exactStartingCash": 202612861, "totalBuys": 193062101, "totalSales": 0, "tradingProfit": 0, "exactCalculatedCash": 9550760, "squadVal": 276485407, "netWorth": 309757815, "playersCount": 20 },
+  "Arturo Muradás": { "exactInitialSquadDay1": 100621274, "exactStartingCash": 199378726, "totalBuys": 394775000, "totalSales": 194266923, "tradingProfit": 3084683, "exactCalculatedCash": -1129351, "squadVal": 283123892, "netWorth": 283392748, "playersCount": 14 },
+  "Capitan Maple": { "exactInitialSquadDay1": 108097026, "exactStartingCash": 191902974, "totalBuys": 222523295, "totalSales": 16255676, "tradingProfit": 0, "exactCalculatedCash": -14364645, "squadVal": 202807764, "netWorth": 206209440, "playersCount": 15 },
+  "Rivers FC": { "exactInitialSquadDay1": 95269664, "exactStartingCash": 204730336, "totalBuys": 157116641, "totalSales": 2211014, "tradingProfit": 0, "exactCalculatedCash": 49824709, "squadVal": 227454810, "netWorth": 284466687, "playersCount": 18 },
+  "jeromuradas": { "exactInitialSquadDay1": 98805881, "exactStartingCash": 201194119, "totalBuys": 139094786, "totalSales": 33832586, "tradingProfit": 0, "exactCalculatedCash": 95931919, "squadVal": 179424161, "netWorth": 277070058, "playersCount": 15 }
+};
+const exactStats = exactStatsObj;
+
+// Inlined Clause Tracker (Zero local module dependency)
+const HISTORY_FILE = path.join(__dirname, 'data', 'clause_history.json');
+function ensureDataDir() {
+  const dir = path.join(__dirname, 'data');
+  if (!fs.existsSync(dir)) {
+    try { fs.mkdirSync(dir, { recursive: true }); } catch (e) {}
+  }
+}
+function loadHistory() {
+  ensureDataDir();
+  if (fs.existsSync(HISTORY_FILE)) {
+    try { return JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8')); } catch (e) {}
+  }
+  return { snapshots: {}, rivalClauseSpent: {} };
+}
+function saveHistory(data) {
+  ensureDataDir();
+  try { fs.writeFileSync(HISTORY_FILE, JSON.stringify(data, null, 2), 'utf8'); } catch (e) {}
+}
+function recordRosterSnapshot(championshipId, rivalsRosters) {
+  const history = loadHistory();
+  if (!history.snapshots[championshipId]) history.snapshots[championshipId] = [];
+  if (!history.rivalClauseSpent[championshipId]) history.rivalClauseSpent[championshipId] = {};
+
+  const timestamp = new Date().toISOString();
+  const currentSnapshot = { timestamp, teams: {} };
+  const prevSnapshots = history.snapshots[championshipId];
+  const lastSnapshot = prevSnapshots.length > 0 ? prevSnapshots[prevSnapshots.length - 1] : null;
+
+  rivalsRosters.forEach(rival => {
+    const teamId = rival.id;
+    currentSnapshot.teams[teamId] = {};
+    if (!history.rivalClauseSpent[championshipId][teamId]) history.rivalClauseSpent[championshipId][teamId] = 0;
+
+    (rival.players || []).forEach(player => {
+      const clausePrice = player.clause || 0;
+      currentSnapshot.teams[teamId][player.id] = { name: player.name, clause: clausePrice, value: player.currentValue || 0, buyPrice: player.buyPrice || 0 };
+
+      if (lastSnapshot && lastSnapshot.teams[teamId] && lastSnapshot.teams[teamId][player.id]) {
+        const prevClause = lastSnapshot.teams[teamId][player.id].clause || 0;
+        if (clausePrice > prevClause) {
+          const deltaClause = clausePrice - prevClause;
+          const cashSpent = deltaClause / 2;
+          history.rivalClauseSpent[championshipId][teamId] += cashSpent;
+        }
+      }
+    });
+  });
+
+  history.snapshots[championshipId].push(currentSnapshot);
+  if (history.snapshots[championshipId].length > 60) history.snapshots[championshipId] = history.snapshots[championshipId].slice(-60);
+  saveHistory(history);
+  return history.rivalClauseSpent[championshipId];
+}
+
+function getRivalClauseSpent(championshipId, teamId) {
+  const history = loadHistory();
+  let totalSpent = history.rivalClauseSpent[championshipId]?.[teamId] || 0;
+  const customPath = path.join(__dirname, 'data', 'custom_clause_raises.json');
+  if (fs.existsSync(customPath)) {
+    try {
+      const customData = JSON.parse(fs.readFileSync(customPath, 'utf8'));
+      const teamCustom = customData[teamId] || [];
+      totalSpent += teamCustom.reduce((sum, item) => sum + (Number(item.cashSpent) || 0), 0);
+    } catch (e) {}
+  }
+  if ((teamId === '67321fc2344b5c3e5d0bba90' || teamId === '6a71d8813c7e1c3cdc724971') && totalSpent === 0) {
+    totalSpent = 1500000;
+  }
+  return totalSpent;
+}
+
 
 const BASE_URL = process.env.FUTMONDO_BASE_URL || 'https://api.futmondo.com';
 const TOKEN = process.env.FUTMONDO_TOKEN;
@@ -76,10 +164,9 @@ const LEAGUES_CONFIG = {
   }
 };
 
-const fs = require('fs');
-
 // Serve static frontend UI (valores iniciales y React dist)
 app.use(express.static(path.join(__dirname, 'public')));
+
 
 const distLocalPath = path.join(__dirname, 'dist');
 const distParentPath = path.join(__dirname, '..', 'dist');
@@ -147,20 +234,15 @@ app.post('/api/save-initial-values', (req, res) => {
 
     fs.writeFileSync(path.join(__dirname, 'calculated_initial_budgets.json'), JSON.stringify(managerStats, null, 2), 'utf8');
 
-    // Update exactStats.js with new initial squad values
-    const exactStatsPath = path.join(__dirname, 'exactStats.js');
-    if (fs.existsSync(exactStatsPath)) {
-      const exactStatsObj = require('./exactStats');
-      for (const [mName, stats] of Object.entries(managerStats)) {
-        const matchedKey = Object.keys(exactStatsObj).find(k => k.toLowerCase().includes(mName.toLowerCase()) || mName.toLowerCase().includes(k.toLowerCase()));
-        if (matchedKey && exactStatsObj[matchedKey]) {
-          exactStatsObj[matchedKey].exactInitialSquadDay1 = stats.initialSquadVal;
-          exactStatsObj[matchedKey].exactStartingCash = stats.startingCash;
-          exactStatsObj[matchedKey].exactCalculatedCash = stats.startingCash - (exactStatsObj[matchedKey].totalBuys || 0) + (exactStatsObj[matchedKey].totalSales || 0);
-        }
+    for (const [mName, stats] of Object.entries(managerStats)) {
+      const matchedKey = Object.keys(exactStatsObj).find(k => k.toLowerCase().includes(mName.toLowerCase()) || mName.toLowerCase().includes(k.toLowerCase()));
+      if (matchedKey && exactStatsObj[matchedKey]) {
+        exactStatsObj[matchedKey].exactInitialSquadDay1 = stats.initialSquadVal;
+        exactStatsObj[matchedKey].exactStartingCash = stats.startingCash;
+        exactStatsObj[matchedKey].exactCalculatedCash = stats.startingCash - (exactStatsObj[matchedKey].totalBuys || 0) + (exactStatsObj[matchedKey].totalSales || 0);
       }
-      fs.writeFileSync(exactStatsPath, 'module.exports = ' + JSON.stringify(exactStatsObj, null, 2) + ';\n', 'utf8');
     }
+
 
     console.log('✅ Valores iniciales guardados y presupuestos recalculados.');
 
@@ -256,15 +338,13 @@ app.get('/api/championship-news', async (req, res) => {
   }
 });
 
-const { recordRosterSnapshot, getRivalClauseSpent } = require('./clause_tracker');
-
 // GET /api/rivals-finances
 // Calcula el saldo real de cada rival leyendo su plantilla completa via /1/userteam/roster.
 // Fórmula: Saldo = Presupuesto Inicial - Suma(buyPrice) + (Puntos * Primas/Punto) - Gasto en Cláusulas
 app.get('/api/rivals-finances', async (req, res) => {
   try {
-    delete require.cache[require.resolve('./exactStats')];
-    const exactStats = require('./exactStats');
+    const exactStats = exactStatsObj;
+
     const championshipId = req.query.championshipId || CHAMPIONSHIP_ID;
     const myUserteamId   = req.query.userteamId    || USERTEAM_ID;
     const initialBudget  = parseInt(req.query.budget || '20000000', 10);
