@@ -555,24 +555,27 @@ app.get('/api/rivals-finances', async (req, res) => {
           teamSales = Math.max(pressroomSalesTotal, soldInitialCashReceived);
           totalSpent = teamBuys;
 
-          // --- Compute tradingProfit using unified buy map for ALL sales ---
+          // --- Compute tradingProfit exclusively for Market Buy/Sell operations (no duplicates with initial squad) ---
+          const marketTrades = [];
           pressroomSalesList2.forEach(s => {
-            // Try pId lookup first, then name-based lookup from initial squad
-            let buyInfo = s.pId ? unifiedBuyMap[s.pId] : null;
-            if (!buyInfo) buyInfo = unifiedBuyMapByName[normStr(s.playerName)] || null;
-            if (buyInfo) {
-              completedTrades.push({
-                pId: s.pId,
-                pName: s.playerName,
-                buyPrice: buyInfo.price,
-                sellPrice: s.price,
-                profitLoss: s.price - buyInfo.price,
-                sellDate: s.date,
-                buyerName: s.buyerName || 'Mercado',
-                source: buyInfo.isInitial ? 'Plantilla Inicial' : 'Mercado/Traspaso'
-              });
+            const isInitialPlayer = allInitialPlayers.some(ip => normStr(ip.name) === normStr(s.playerName));
+            if (!isInitialPlayer) {
+              let buyInfo = s.pId ? unifiedBuyMap[s.pId] : null;
+              if (buyInfo && buyInfo.price > 0) {
+                marketTrades.push({
+                  pId: s.pId,
+                  pName: s.playerName,
+                  buyPrice: buyInfo.price,
+                  sellPrice: s.price,
+                  profitLoss: s.price - buyInfo.price,
+                  sellDate: s.date,
+                  buyerName: s.buyerName || 'Mercado',
+                  source: 'Mercado/Traspaso'
+                });
+              }
             }
           });
+          completedTrades = marketTrades;
           tradingProfit = completedTrades.reduce((sum, tr) => sum + tr.profitLoss, 0);
 
           const managerStartingCash = 300000000 - initialSquadValue;
