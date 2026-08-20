@@ -542,7 +542,11 @@ app.get('/api/rivals-finances', async (req, res) => {
             }
           });
 
-          let currentRosterBuys = roster.reduce((sum, p) => sum + (p.buyPrice || 0), 0);
+          const retainedSet = new Set((initialData.retained || []).map(r => normStr(r.name)));
+
+          let currentRosterBuys = roster
+            .filter(p => !retainedSet.has(normStr(p.name)))
+            .reduce((sum, p) => sum + (p.buyPrice || 0), 0);
           let soldPlayersBuys = pressroomBuysList
             .filter(b => b.pId && !currentRosterPIds.has(b.pId))
             .reduce((sum, b) => sum + (b.price || 0), 0);
@@ -576,11 +580,7 @@ app.get('/api/rivals-finances', async (req, res) => {
           tradingProfit = completedTrades.reduce((sum, tr) => sum + tr.profitLoss, 0);
 
           const managerStartingCash = 300000000 - initialSquadValue;
-          if (isCarlos) {
-            cashBalance = -78647270;
-          } else {
-            cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent;
-          }
+          cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent;
 
         }
 
