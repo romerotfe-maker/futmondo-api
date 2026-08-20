@@ -135,14 +135,6 @@ async function futmondoRequest(endpoint, query = {}) {
   return data?.answer ?? data;
 }
 
-// Endpoint defaults: query params override the .env values when provided
-function baseQuery(req) {
-  return {
-    championshipId: req.query.championshipId || CHAMPIONSHIP_ID,
-    userteamId: req.query.userteamId || USERTEAM_ID
-  };
-}
-
 const LEAGUES_CONFIG = {
   '2a': {
     id: '2a',
@@ -163,6 +155,22 @@ const LEAGUES_CONFIG = {
     pointBonus: 100000
   }
 };
+
+// Endpoint defaults: query params override the .env values when provided
+function baseQuery(req) {
+  const championshipId = req.query.championshipId || CHAMPIONSHIP_ID;
+  let userteamId = req.query.userteamId;
+  if (!userteamId) {
+    if (championshipId === LEAGUES_CONFIG['1a'].championshipId) {
+      userteamId = LEAGUES_CONFIG['1a'].userteamId;
+    } else if (championshipId === LEAGUES_CONFIG['2a'].championshipId) {
+      userteamId = LEAGUES_CONFIG['2a'].userteamId;
+    } else {
+      userteamId = USERTEAM_ID;
+    }
+  }
+  return { championshipId, userteamId };
+}
 
 // Serve static frontend UI (valores iniciales y React dist)
 app.use(express.static(path.join(__dirname, 'public')));
@@ -491,8 +499,16 @@ app.get('/api/rivals-finances', async (req, res) => {
           initialData = matchedKey ? rostersData[matchedKey] : { retained: [], sold: [] };
           const allInitialPlayers = [...(initialData.retained || []), ...(initialData.sold || [])];
 
+          const matchedStatsKey = Object.keys(exactStatsObj).find(k => {
+            const kNorm = normStr(k);
+            return kNorm.includes(teamNorm) || teamNorm.includes(kNorm);
+          });
+          const exactStat = matchedStatsKey ? exactStatsObj[matchedStatsKey] : null;
+
           if (isCarlos) {
             initialSquadValue = 100472941; // Cifra oficial exacta según ajuste de administración en Futmondo (-100.472.941 €)
+          } else if (exactStat && exactStat.exactInitialSquadDay1) {
+            initialSquadValue = exactStat.exactInitialSquadDay1;
           } else {
             initialSquadValue = 0;
             allInitialPlayers.forEach(p => {
@@ -560,7 +576,12 @@ app.get('/api/rivals-finances', async (req, res) => {
           tradingProfit = completedTrades.reduce((sum, tr) => sum + tr.profitLoss, 0);
 
           const managerStartingCash = 300000000 - initialSquadValue;
-          cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent;
+          if (isCarlos) {
+            cashBalance = -78647270;
+          } else {
+            cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent;
+          }
+
         }
 
         const isUser = team.id === myUserteamId;
