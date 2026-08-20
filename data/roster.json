@@ -1,0 +1,522 @@
+{
+    "answer":  [
+                   {
+                       "id":  "5b60063cc1287fe257409984",
+                       "name":  "Dani Martín",
+                       "slug":  "67248341",
+                       "role":  "portero",
+                       "role2":  "",
+                       "photo":  "67248341.png",
+                       "points":  0,
+                       "value":  640603,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "",
+                       "rating":  3,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  19135,
+                       "computer":  false,
+                       "buyPrice":  2580000,
+                       "clause":  {
+                                      "price":  6050475,
+                                      "date":  "2026-08-20T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  2305416
+                                  }
+                   },
+                   {
+                       "id":  "51b8a1c2e401a15f2c000153",
+                       "name":  "David Rodríguez",
+                       "slug":  "67298488",
+                       "role":  "defensa",
+                       "role2":  "centrocampista",
+                       "photo":  "67298488.png",
+                       "points":  0,
+                       "value":  603212,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "",
+                       "rating":  3,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  716,
+                       "computer":  false,
+                       "buyPrice":  850000,
+                       "clause":  {
+                                      "price":  2778908,
+                                      "date":  "2026-08-20T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  2216867
+                                  }
+                   },
+                   {
+                       "id":  "6866a5417775a433449e9c9a",
+                       "name":  "Carbonell",
+                       "slug":  "67294051",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67294051.png",
+                       "points":  0,
+                       "value":  199726,
+                       "team":  "Real Sociedad B",
+                       "logo":  "real-sociedad-b.png",
+                       "teamId":  "51fbd40cb53862dd3e00001c",
+                       "status":  "",
+                       "rating":  1,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -6849,
+                       "computer":  false,
+                       "buyPrice":  298000,
+                       "clause":  {
+                                      "price":  1419587,
+                                      "date":  "2026-08-20T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  1113512
+                                  }
+                   },
+                   {
+                       "id":  "66f02d94edad190541669993",
+                       "name":  "Dani Fernández",
+                       "slug":  "2000320997",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "2000320997.png",
+                       "points":  0,
+                       "value":  262978,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "ok",
+                       "rating":  2,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  374,
+                       "computer":  false,
+                       "buyPrice":  633355,
+                       "clause":  {
+                                      "price":  2288362,
+                                      "date":  "2026-08-25T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  1314903
+                                  }
+                   },
+                   {
+                       "id":  "6956d307913b6604219f0f2b",
+                       "name":  "Percan",
+                       "slug":  "67263275",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "67263275.png",
+                       "points":  0,
+                       "value":  113352,
+                       "team":  "Córdoba",
+                       "logo":  "cordoba-cf.png",
+                       "teamId":  "52034fdbb8d07d930b000013",
+                       "status":  "",
+                       "rating":  1,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -4442,
+                       "computer":  false,
+                       "buyPrice":  122604,
+                       "clause":  {
+                                      "price":  835161,
+                                      "date":  "2026-08-22T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  798042
+                                  }
+                   },
+                   {
+                       "id":  "6a3e67a92ae0d649eac37510",
+                       "name":  "Liameed",
+                       "slug":  "13221035",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "13221035.png",
+                       "points":  0,
+                       "value":  921073,
+                       "team":  "Sabadell",
+                       "logo":  "ce-sabadell.png",
+                       "teamId":  "520352acb8d07d930b000015",
+                       "status":  "ok",
+                       "rating":  3,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  1093,
+                       "computer":  false,
+                       "buyPrice":  1250000,
+                       "clause":  {
+                                      "price":  3611067,
+                                      "date":  "2026-08-21T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  2932631
+                                  }
+                   },
+                   {
+                       "id":  "67a20a0211722503f4a28b32",
+                       "name":  "Landázuri",
+                       "slug":  "86066847",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "86066847.png",
+                       "points":  0,
+                       "value":  646673,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "",
+                       "rating":  3,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -4851,
+                       "computer":  false,
+                       "buyPrice":  1650000,
+                       "clause":  {
+                                      "price":  4384046,
+                                      "date":  "2026-08-24T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  2319659
+                                  }
+                   },
+                   {
+                       "id":  "6a3ef342c40ad549f036b568",
+                       "name":  "Meixús",
+                       "slug":  "2000124143",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000124143.png",
+                       "points":  0,
+                       "value":  364037,
+                       "team":  "Celta Fortuna",
+                       "logo":  "rc-celta-de-vigo-b.png",
+                       "teamId":  "51ffbab40ac2ec8b07000025",
+                       "status":  "ok",
+                       "rating":  2,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -9919,
+                       "computer":  false,
+                       "buyPrice":  395000,
+                       "clause":  {
+                                      "price":  1691480,
+                                      "date":  "2026-08-20T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  1607150
+                                  }
+                   },
+                   {
+                       "id":  "68e27fc5bdd35803fccd8010",
+                       "name":  "Timorán",
+                       "slug":  "2000456357",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000456357.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "Córdoba",
+                       "logo":  "cordoba-cf.png",
+                       "teamId":  "52034fdbb8d07d930b000013",
+                       "status":  "",
+                       "rating":  1,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  0,
+                       "computer":  false,
+                       "buyPrice":  100000,
+                       "clause":  {
+                                      "price":  742455,
+                                      "date":  "2026-08-20T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  742455
+                                  }
+                   },
+                   {
+                       "id":  "6a621e6b58624805c6d28a89",
+                       "name":  "Gharbi",
+                       "slug":  "2000006181",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "2000006181.png",
+                       "points":  0,
+                       "value":  2195897,
+                       "team":  "Leganés",
+                       "logo":  "cd-leganes.png",
+                       "teamId":  "51ffb6b7113981890700003a",
+                       "status":  "ok",
+                       "rating":  5,
+                       "market":  {
+                                      "inMarket":  true,
+                                      "price":  2195897,
+                                      "bids":  [
+
+                                               ]
+                                  },
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  7597,
+                       "computer":  false,
+                       "buyPrice":  2188300,
+                       "clause":  {
+                                      "price":  5379198,
+                                      "date":  "2026-08-25T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  5379198
+                                  }
+                   },
+                   {
+                       "id":  "6a3c229317e98103fe0c8cce",
+                       "name":  "Ghailan",
+                       "slug":  "2000331266",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "2000331266.png",
+                       "points":  0,
+                       "value":  373392,
+                       "team":  "Córdoba",
+                       "logo":  "cordoba-cf.png",
+                       "teamId":  "52034fdbb8d07d930b000013",
+                       "status":  "ok",
+                       "rating":  2,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -10173,
+                       "computer":  false,
+                       "buyPrice":  460000,
+                       "clause":  {
+                                      "price":  1862465,
+                                      "date":  "2026-08-21T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  1632847
+                                  }
+                   },
+                   {
+                       "id":  "6a70a9bfdb5fee059d38efff",
+                       "name":  "Jureskin",
+                       "slug":  "roko-jureskin",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "roko-jureskin.png",
+                       "points":  0,
+                       "value":  244524,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "ok",
+                       "rating":  1,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -7315,
+                       "computer":  false,
+                       "buyPrice":  380000,
+                       "clause":  {
+                                      "price":  1650882,
+                                      "date":  "2026-08-24T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  1257963
+                                  }
+                   },
+                   {
+                       "id":  "66c3dd6266afd303cfc7a24c",
+                       "name":  "Diarra",
+                       "slug":  "67260198",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67260198.png",
+                       "points":  0,
+                       "value":  619387,
+                       "team":  "Córdoba",
+                       "logo":  "cordoba-cf.png",
+                       "teamId":  "52034fdbb8d07d930b000013",
+                       "status":  "ok",
+                       "rating":  3,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -16637,
+                       "computer":  false,
+                       "buyPrice":  845500,
+                       "clause":  {
+                                      "price":  2769071,
+                                      "date":  "2026-08-25T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  2255348
+                                  }
+                   },
+                   {
+                       "id":  "665cf0aabd5be20441bd1cca",
+                       "name":  "Víctor Moreno",
+                       "slug":  "2000215081",
+                       "role":  "delantero",
+                       "role2":  "centrocampista",
+                       "photo":  "2000215081.png",
+                       "points":  0,
+                       "value":  161755,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "teamId":  "520384b42e80d2950b000092",
+                       "status":  "ok",
+                       "rating":  1,
+                       "market":  false,
+                       "direct":  false,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "change":  -6094,
+                       "computer":  false,
+                       "buyPrice":  2650000,
+                       "clause":  {
+                                      "price":  6170764,
+                                      "date":  "2026-08-22T09:59:59.999Z",
+                                      "transferred":  false,
+                                      "suggestedClause":  982306
+                                  }
+                   }
+               ],
+    "query":  {
+                  "championshipId":  "6a71d880f996a839bdb18bb1",
+                  "userteamId":  "6a71d8813c7e1c3cdc724971"
+              },
+    "header":  {
+                   "userid":  "55032ad6f525d0b103024bff",
+                   "token":  "c9a5_94f72e9eba9757e7407eb5f8db055c62"
+               }
+}

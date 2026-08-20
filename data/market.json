@@ -1,0 +1,1141 @@
+{
+    "answer":  [
+                   {
+                       "id":  "51d70ed7a7178a7654000012",
+                       "name":  "Mojica",
+                       "slug":  "76020280",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "76020280.png",
+                       "points":  0,
+                       "value":  1457331,
+                       "team":  "Mallorca",
+                       "logo":  "mallorca.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.866Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  1457331,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  52674,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "5f36db010b759303ff680104",
+                       "name":  "Iván Martín ",
+                       "slug":  "67258832",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67258832.png",
+                       "points":  0,
+                       "value":  2681376,
+                       "team":  "Girona",
+                       "logo":  "girona-cf.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.854Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  2663673,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  17703,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  2
+                   },
+                   {
+                       "id":  "51cb698301d64ad4700000c1",
+                       "name":  "Miquel",
+                       "slug":  "28027172",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "28027172.png",
+                       "points":  0,
+                       "value":  375027,
+                       "team":  "Leganés",
+                       "logo":  "cd-leganes.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  386246,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -11219,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "5cfc2be98721525ead8d94b1",
+                       "name":  "Gragera",
+                       "slug":  "67263880",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67263880.png",
+                       "points":  0,
+                       "value":  599081,
+                       "team":  "Burgos",
+                       "logo":  "burgos-cf.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.866Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  599081,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -6076,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "65a2f7b8b94b7303dce5ccac",
+                       "name":  "Marco Esteban",
+                       "slug":  "2000247950",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000247950.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "R. Oviedo",
+                       "logo":  "real-oviedo.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.853Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  100000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "57ba1e24576d2b133ea08a4f",
+                       "name":  "Alejandro Pozo",
+                       "slug":  "67228777",
+                       "role":  "defensa",
+                       "role2":  "centrocampista",
+                       "photo":  "67228777.png",
+                       "points":  0,
+                       "value":  265496,
+                       "team":  "Almería",
+                       "logo":  "almeria.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.865Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  265496,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -7942,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "5a525dc6f1e0f19d06935999",
+                       "name":  "Arnáiz",
+                       "slug":  "67215620",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "67215620.png",
+                       "points":  0,
+                       "value":  1985361,
+                       "team":  "Granada",
+                       "logo":  "granada.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.853Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  1913601,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  71760,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  2
+                   },
+                   {
+                       "id":  "5b34a5c720ba80411d09b254",
+                       "name":  "Juan Cruz",
+                       "slug":  "43077014",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "43077014.png",
+                       "points":  0,
+                       "value":  947583,
+                       "team":  "R. Oviedo",
+                       "logo":  "real-oviedo.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  971090,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -23507,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  3,
+                       "bid":  {
+                                   "id":  "6a79fe76ead13d23769b998c",
+                                   "price":  1350000
+                               }
+                   },
+                   {
+                       "id":  "5218a4b970a791642600023c",
+                       "name":  "Antonio Puertas",
+                       "slug":  "67150319",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67150319.png",
+                       "points":  0,
+                       "value":  454852,
+                       "team":  "Albacete",
+                       "logo":  "albacete-balompie-sad.png",
+                       "status":  "injured2",
+                       "creationDate":  "2026-08-11T04:16:16.869Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  454852,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -8691,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "64b4fa0b7646a13cd3cca718",
+                       "name":  "Lautaro de León",
+                       "slug":  "67278255",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "67278255.png",
+                       "points":  0,
+                       "value":  556373,
+                       "team":  "Andorra",
+                       "logo":  "andorra.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.869Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  556373,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  14408,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "5a4cf315f9e7a3cb1bc59180",
+                       "name":  "Chris Ramos",
+                       "slug":  "67264011",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "67264011.png",
+                       "points":  0,
+                       "value":  1567651,
+                       "team":  "R. Oviedo",
+                       "logo":  "real-oviedo.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.853Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  1537453,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  30198,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6060aa1a7a64b003da0efc7d",
+                       "name":  "Arnau Martínez",
+                       "slug":  "2000062512",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000062512.png",
+                       "points":  0,
+                       "value":  1540716,
+                       "team":  "Girona",
+                       "logo":  "girona-cf.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.854Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  1520505,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  20211,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  2,
+                       "bid":  {
+                                   "id":  "6a79fe88ce50f2235a526a57",
+                                   "price":  1850000
+                               }
+                   },
+                   {
+                       "id":  "594b9e84a71134f50524cb68",
+                       "name":  "Higinio",
+                       "slug":  "67183365",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "67183365.png",
+                       "points":  0,
+                       "value":  374892,
+                       "team":  "Albacete",
+                       "logo":  "albacete-balompie-sad.png",
+                       "status":  "injured",
+                       "creationDate":  "2026-08-10T15:05:39.851Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  374892,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -9594,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "504f65574d8bec9a670006ea",
+                       "name":  "Jesé",
+                       "slug":  "67117361",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "67117361.png",
+                       "points":  0,
+                       "value":  2537927,
+                       "team":  "Las Palmas",
+                       "logo":  "ud-las-palmas.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.863Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  2537927,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -15452,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "64c974421f29223cc6a7f5ec",
+                       "name":  "Álvaro Martín",
+                       "slug":  "67277460",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67277460.png",
+                       "points":  0,
+                       "value":  372193,
+                       "team":  "Castellón",
+                       "logo":  "castellon.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.851Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  383328,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -11135,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "54c509f75d97b9070200178c",
+                       "name":  "Dani Calvo",
+                       "slug":  "67218464",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "67218464.png",
+                       "points":  0,
+                       "value":  1054190,
+                       "team":  "R. Oviedo",
+                       "logo":  "real-oviedo.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  1054190,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -13421,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  2,
+                       "bid":  {
+                                   "id":  "6a79febd3a98ee5f1c8971dd",
+                                   "price":  1352000
+                               }
+                   },
+                   {
+                       "id":  "63c6945172c559051c25d9fa",
+                       "name":  "Tsygankov",
+                       "slug":  "71080414",
+                       "role":  "delantero",
+                       "role2":  "centrocampista",
+                       "photo":  "71080414.png",
+                       "points":  0,
+                       "value":  3621105,
+                       "team":  "Girona",
+                       "logo":  "girona-cf.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.865Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  3621105,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  54055,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  1
+                   },
+                   {
+                       "id":  "6a3e69f90f1d1649c3badc93",
+                       "name":  "Borja Calvo",
+                       "slug":  "2000059717",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "2000059717.png",
+                       "points":  0,
+                       "value":  153885,
+                       "team":  "Eldense",
+                       "logo":  "eldense.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.863Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  153885,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -6115,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a4786a994becb49b7f57c32",
+                       "name":  "Samu Rodríguez",
+                       "slug":  "2000128026",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000128026.png",
+                       "points":  0,
+                       "value":  254524,
+                       "team":  "R. Oviedo",
+                       "logo":  "real-oviedo.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-10T15:05:39.854Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  262138,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -7614,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "687f4b03936f42045c4188f0",
+                       "name":  "Willmann",
+                       "slug":  "2000185666",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000185666.png",
+                       "points":  0,
+                       "value":  138159,
+                       "team":  "Castellón",
+                       "logo":  "castellon.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  138159,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -5282,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "687b6167936f42045c4188e8",
+                       "name":  "Trilli",
+                       "slug":  "253311",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "253311.png",
+                       "points":  0,
+                       "value":  126771,
+                       "team":  "Real Valladolid",
+                       "logo":  "valladolid.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.853Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  131547,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -4776,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3ef559d20b724a05e7db7a",
+                       "name":  "Hugo Busto",
+                       "slug":  "2000332660",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "2000332660.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "Celta Fortuna",
+                       "logo":  "rc-celta-de-vigo-b.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.866Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  100000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a4572cc18b75749f3c201ae",
+                       "name":  "Solozábal",
+                       "slug":  "2000278922",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "2000278922.png",
+                       "points":  0,
+                       "value":  178816,
+                       "team":  "Andorra",
+                       "logo":  "andorra.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-10T15:05:39.853Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  185553,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -6737,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "663fd892067b05040dbbe684",
+                       "name":  "Arnu",
+                       "slug":  "2000308695",
+                       "role":  "delantero",
+                       "role2":  "",
+                       "photo":  "2000308695.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "Real Valladolid",
+                       "logo":  "valladolid.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-10T15:05:39.854Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  100000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "690775455349e203e042c5ea",
+                       "name":  "Juan Díaz",
+                       "slug":  "2000291726",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000291726.png",
+                       "points":  0,
+                       "value":  178595,
+                       "team":  "Cádiz",
+                       "logo":  "cadiz-cf.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  178595,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -6733,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6861902065100f3368c8f65a",
+                       "name":  "Joaquín González",
+                       "slug":  "2000147504",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "2000147504.png",
+                       "points":  0,
+                       "value":  139010,
+                       "team":  "Cádiz",
+                       "logo":  "cadiz-cf.png",
+                       "status":  "",
+                       "creationDate":  "2026-08-11T04:16:16.868Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  139010,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -5237,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3c25d7b4406e03a4ddda50",
+                       "name":  "Rafa Cruz",
+                       "slug":  "rafael-cruz",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "rafael-cruz.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "Las Palmas",
+                       "logo":  "ud-las-palmas.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-10T15:05:39.851Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  100000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a524a4639099e05be4e5ee8",
+                       "name":  "Bonaldo",
+                       "slug":  "19267279",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "19267279.png",
+                       "points":  0,
+                       "value":  215710,
+                       "team":  "Sabadell",
+                       "logo":  "ce-sabadell.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.873Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  215710,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -7397,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3c4b505382de03a5b929a7",
+                       "name":  "De Rooij",
+                       "slug":  "37076864",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "37076864.png",
+                       "points":  0,
+                       "value":  533288,
+                       "team":  "Real Valladolid",
+                       "logo":  "valladolid.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.868Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  533288,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -12054,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a4fc83a76dae505765217e7",
+                       "name":  "Óscar Sanz",
+                       "slug":  "67272073",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "67272073.png",
+                       "points":  0,
+                       "value":  280299,
+                       "team":  "Sabadell",
+                       "logo":  "ce-sabadell.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.870Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  280299,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -8872,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3ef3e118b75749f3c1f605",
+                       "name":  "Khayat",
+                       "slug":  "2000460764",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000460764.png",
+                       "points":  0,
+                       "value":  100000,
+                       "team":  "Celta Fortuna",
+                       "logo":  "rc-celta-de-vigo-b.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.864Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  100000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a4e45c276000e49e0a6e4c3",
+                       "name":  "Duñabeitia",
+                       "slug":  "2000065893",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000065893.png",
+                       "points":  0,
+                       "value":  155351,
+                       "team":  "Sporting",
+                       "logo":  "sporting-de-gijon.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.867Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  155351,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -5327,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3e6ee94da74b49f56d37ef",
+                       "name":  "Juanjo",
+                       "slug":  "2000026040",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000026040.png",
+                       "points":  0,
+                       "value":  253786,
+                       "team":  "Tenerife",
+                       "logo":  "cd-tenerife.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.864Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  253786,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -7895,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a4be3a2c40ad549f036e885",
+                       "name":  "Buurmeester",
+                       "slug":  "37079086",
+                       "role":  "centrocampista",
+                       "role2":  "",
+                       "photo":  "37079086.png",
+                       "points":  0,
+                       "value":  620557,
+                       "team":  "Leganés",
+                       "logo":  "cd-leganes.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.868Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  620557,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  -15394,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a3e677cc40ad549f036b54a",
+                       "name":  "Alemán",
+                       "slug":  "2000117933",
+                       "role":  "defensa",
+                       "role2":  "",
+                       "photo":  "2000117933.png",
+                       "points":  0,
+                       "value":  103707,
+                       "team":  "Sabadell",
+                       "logo":  "ce-sabadell.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-10T15:05:39.852Z",
+                       "expirationDate":  "2026-08-11T14:50:00.000Z",
+                       "price":  103707,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  3707,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   },
+                   {
+                       "id":  "6a76fc391e87c805994b781c",
+                       "name":  "Enes Sali",
+                       "slug":  "enes-sali",
+                       "role":  "centrocampista",
+                       "role2":  "delantero",
+                       "photo":  "enes-sali.png",
+                       "points":  0,
+                       "value":  510000,
+                       "team":  "Andorra",
+                       "logo":  "andorra.png",
+                       "status":  "ok",
+                       "creationDate":  "2026-08-11T04:16:16.867Z",
+                       "expirationDate":  "2026-08-12T03:50:00.000Z",
+                       "price":  510000,
+                       "isClause":  false,
+                       "computer":  true,
+                       "type":  "normal",
+                       "change":  0,
+                       "average":  {
+                                       "average":  0,
+                                       "homeAverage":  0,
+                                       "awayAverage":  0,
+                                       "averageLastFive":  0,
+                                       "matches":  0,
+                                       "fitness":  [
+
+                                                   ]
+                                   },
+                       "numberOfBids":  0
+                   }
+               ],
+    "query":  {
+                  "userteamId":  "6a71d8813c7e1c3cdc724971",
+                  "type":  "market",
+                  "championshipId":  "6a71d880f996a839bdb18bb1"
+              },
+    "header":  {
+                   "userid":  "55032ad6f525d0b103024bff",
+                   "token":  "c9a5_94f72e9eba9757e7407eb5f8db055c62"
+               }
+}

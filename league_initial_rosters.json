@@ -896,5 +896,87 @@
         "saleDate": "2026-08-15"
       }
     ]
+  },
+  "Jero_GOL": {
+    "retained": [
+      {
+        "name": "Balde",
+        "status": "Conservado (Retenido)",
+        "currentVal": 15041406
+      },
+      {
+        "name": "Roberto Fernández",
+        "status": "Conservado (Retenido)",
+        "currentVal": 12218265
+      },
+      {
+        "name": "Brahim Díaz",
+        "status": "Conservado (Retenido)",
+        "currentVal": 14606806
+      },
+      {
+        "name": "Denis Suárez",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1216337
+      },
+      {
+        "name": "Ángel Recio",
+        "status": "Conservado (Retenido)",
+        "currentVal": 1000000
+      },
+      {
+        "name": "Sivera",
+        "status": "Conservado (Retenido)",
+        "currentVal": 18060727
+      }
+    ],
+    "sold": [
+      {
+        "name": "Mendy",
+        "status": "Vendido (2026-08-09 por 5.536.221 €)",
+        "salePrice": 5536221
+      },
+      {
+        "name": "Moscardo",
+        "status": "Vendido (2026-08-10 por 4.933.946 €)",
+        "salePrice": 4933946
+      },
+      {
+        "name": "Luiz Felipe",
+        "status": "Vendido (2026-08-10 por 1.018.988 €)",
+        "salePrice": 1018988
+      },
+      {
+        "name": "Carlos Dotor",
+        "status": "Vendido (2026-08-11 por 1.443.963 €)",
+        "salePrice": 1443963
+      },
+      {
+        "name": "Adrián R.",
+        "status": "Vendido (2026-08-11 por 1.065.302 €)",
+        "salePrice": 1065302
+      },
+      {
+        "name": "Rodrygo",
+        "status": "Vendido (2026-08-11 por 16.532.602 €)",
+        "salePrice": 16532602
+      },
+      {
+        "name": "Gonzalo Petit",
+        "status": "Vendido (2026-08-13 por 1.069.833 €)",
+        "salePrice": 1069833
+      },
+      {
+        "name": "Marc Casadó",
+        "status": "Vendido (2026-08-14 por 1.176.613 €)",
+        "salePrice": 1176613
+      },
+      {
+        "name": "Marcão",
+        "status": "Vendido (2026-08-15 por 1.055.118 €)",
+        "salePrice": 1055118,
+        "saleDate": "2026-08-15"
+      }
+    ]
   }
 }

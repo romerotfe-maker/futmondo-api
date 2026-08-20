@@ -442,8 +442,18 @@ app.get('/api/rivals-finances', async (req, res) => {
           }
         }));
         const autoRpsSpent = rpsDetails.reduce((a, b) => a + (b.rps || 0), 0);
-        const trackerSpent = getRivalClauseSpent(championshipId, team.id);
-        const clauseSpent = Math.max(autoRpsSpent, trackerSpent);
+        const customPath = path.join(__dirname, 'data', 'custom_clause_raises.json');
+        let customData = {};
+        if (fs.existsSync(customPath)) {
+          try { customData = JSON.parse(fs.readFileSync(customPath, 'utf8')); } catch(e) {}
+        }
+        const teamCustom = customData[team.id] || [];
+        const activeRosterNames = new Set(roster.map(p => normStr(p.name)));
+        const pastClauseSpent = teamCustom
+          .filter(c => !activeRosterNames.has(normStr(c.playerName)))
+          .reduce((sum, c) => sum + (Number(c.cashSpent) || 0), 0);
+
+        const clauseSpent = autoRpsSpent + pastClauseSpent;
 
         let cashBalance = 0;
         let totalSpent = 0;
