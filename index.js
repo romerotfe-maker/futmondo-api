@@ -483,11 +483,7 @@ app.get('/api/rivals-finances', async (req, res) => {
           completedTrades = pressroomStats.tradesByTeam?.[team.id] || [];
           tradingProfit = completedTrades.reduce((sum, tr) => sum + (tr.profitLoss || 0), 0);
 
-          if (isCarlos) {
-            cashBalance = 1822469; // Preservar exactitud verificada en 2ª Div
-          } else {
-            cashBalance = 20000000 - teamBuys + teamSales + pointsIncome - clauseSpent;
-          }
+          cashBalance = 20000000 - teamBuys + teamSales + pointsIncome - clauseSpent + lockerReceived;
           totalSpent = teamBuys;
         } else {
           // 1ª División: Con plantilla inicial asignada (300M€ presupuesto base)
@@ -580,7 +576,7 @@ app.get('/api/rivals-finances', async (req, res) => {
           tradingProfit = completedTrades.reduce((sum, tr) => sum + tr.profitLoss, 0);
 
           const managerStartingCash = 300000000 - initialSquadValue;
-          cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent;
+          cashBalance = managerStartingCash - teamBuys + teamSales + pointsIncome - clauseSpent + lockerReceived;
 
         }
 
